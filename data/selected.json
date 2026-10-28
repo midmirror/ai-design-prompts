@@ -1,0 +1,947 @@
+[
+ {
+  "id": "1993729800922341810",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "infographic-dataviz",
+   "ux-research"
+  ],
+  "likes": 2551,
+  "views": 1594594,
+  "date": "2025-11-26",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana pro prompt (with gemini)\n\nDynamically generate a current weather card based on a given city name.\n\n--- prompt ---\n\nPresent a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.\n\nThe scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.\n\nUse a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.\n\nDisplay a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.\n\nThe text should match the input city's native language.\nPlease retrieve current weather conditions for the specified city before rendering.\n\nCity name:【上海】",
+  "media": [
+   "https://pbs.twimg.com/media/G6smYVJX0AAmgko.jpg",
+   "https://pbs.twimg.com/media/G6smZsqWcAETTUC.jpg",
+   "https://pbs.twimg.com/media/G6smbAOWQAEd_5l.jpg",
+   "https://pbs.twimg.com/media/G6smrfEWUAAoCX8.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1993729800922341810",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "1995633652139442373",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 411,
+  "views": 219799,
+  "date": "2025-12-01",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana prompt\n\nConvert your X profile to a cyber-aesthetic futuristic social-app interface.\n\nTake a screenshot with your X profile, and send it to Gemini/nano banan pro with the prompt\n\n--- Prompt ---\n\nA 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is holding a vertical, iPhone-sized, borderless acrylic card, taking up most of the frame. The card displays a social media profile interface with no banners or background images. Its smooth, rounded edges emit a soft neon glow in blue, pink, and purple gradients.\n\nThe background is dark and blurred, emphasizing the glowing edges; the light reflections on the fingers feel cinematic and atmospheric, creating a high-tech holographic mood. The card surface is crystal-clear, and the profile details appear almost engraved, showing only the information from the reference image.\n\nDisplayed in this exact order:\n\n- Profile avatar (centered)\n- Name + blue verification badge (centered)\n- Username with “@”, e.g., @dotey (centered)\n- Bio (left-aligned)\n- Location, website (left-aligned)\n- Join date (left-aligned)\n- Following count & followers count (left-aligned)\n- Follow button (full-width, transparent background, rounded-full, border with soft neon glow)",
+  "media": [
+   "https://pbs.twimg.com/media/G7HqLdcXcAEVoJq.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1995633652139442373",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "1993957167079280893",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 529,
+  "views": 149530,
+  "date": "2025-11-27",
+  "user": "op7418",
+  "name": "歸藏(guizang.ai)",
+  "text": "Nano Banana Pro 提示词\n\n太可爱了，制作任何地方的天气移轴 Q 版模型！\n\n从宝玉这个玩法来的灵感，优化了一下整个模型的视觉效果，现在更加软润可爱。\n\n天气会以更加更加拟物化的方式呈现，你可以输入经纬度也可以写地点，文字排版也更加的精细。\n\n提示词为：\n海报设计、自媒体封面设计：查找经纬度位于 52.891970728167614, 122.4549778092535 的地点并且获取地点的天气和时间。\n\n画面的主体是当地代表性的建筑或者景观轴侧微缩模型，上方是当前天气的微缩模型，比如云、太阳等。梦工厂风格，3D建模，细腻、柔和的光线投影，画面周围大面积留白，画面底部居中无衬线体小字写上位置信息和天气图标和时间以及中文位置介绍文案。高品质画面输出。",
+  "media": [
+   "https://pbs.twimg.com/media/G6v1dK-a0AsdesV.jpg"
+  ],
+  "url": "https://x.com/op7418/status/1993957167079280893",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "2113849121299894727",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype",
+   "icon-illustration"
+  ],
+  "likes": 218,
+  "views": 21279,
+  "date": "2026-10-24",
+  "user": "Kubai087",
+  "name": "枯白啃设计",
+  "text": "Opus 5.5 生成 svg 的效率实在太高，让他给 https://t.co/cMR1I1xHes 生成了一组以 UI 线框为主体、且与功能关联明确的空状态，他给了我这些结果⬇️\n\n图标是 @remixdesigner   的开源图标库 Remix icon\n\nOne shot，提示词如下，直接复制，把 【】 换成你的场景就能用：\n\n画一张浏览器扩展的空状态插图，场景是【书签文件夹里什么都没有】。风格是“缩小版的真实产品界面”，不是插画。输出一个独立的 inline SVG。\n\n画布与底板\n- viewBox 0 0 160 120，圆角 18 的底板铺满画布。\n- 底板浅色 #fafafa；上面叠 45° 细斜纹，线宽 1，间距 7，颜色 rgba(15,23,42,0.05)；内描边 1px rgba(15,23,42,0.07)。\n\n物体（缩小版的真实产品界面）\n- 白色不透明卡片或窗口，圆角 10–13；1px 描边 rgba(47,42,34,0.08)；阴影向下偏移 5、模糊 4.5、颜色 rgb(47,42,34)、不透明度 0.13。\n- 浏览器窗口顶部是 18 高的标签条 #eef1f5，激活的标签是白色，圆角 5。\n- 文字一律用占位条代替：普通 4 高 #e5e9ef，标题 5 高 #cdd4de，两端全圆角。\n- 空格子 #f1f3f6；露在后面的卡片 #f3f3f4。\n- 图标只用 Remix icon的线性款。普通图标 #a3abb7，次要操作 #6b7280。\n- 只有一个强调色元素，表示下一步操作（按钮、重试、新增）；没有下一步就不用强调色。强调色 #3462ad。按键或主按钮用石板灰渐变 #404859 → #273042，上面配白色图标。\n\n深色模式\n- 底板 #26262b，斜纹 rgba(255,255,255,0.035)，表面 #323238，标签条 #2a2a2f，占位条 #3f3f47 / #52525b，图标 #7d828c，强调色 #7ea6ea，阴影黑色、不透明度 0.36。\n- 颜色写成 CSS 变量，放在 SVG 内部的 <style> 里，并用 SVG 自己的 id 限定作用域。根元素写 data-theme=\"light|dark|auto\"；auto 跟随 prefers-color-scheme。\n\n构图\n- 画的是这个空状态在真实界面里的样子，按比例简化；不要抽象符号。\n- 一个场景，2–3 个物体，外接框居中于 (80, 60)，四周留白至少 14。\n- 不要文字、人物、渐变插画背景，也不要半透明物体互相叠加。\n\n技术\n- 不引用外部资源，不用 <image> 或 <use>。\n- 阴影用 feGaussianBlur + feOffset + feFlood + feComposite + feMerge 拼出来，不要用 feDropShadow（有些 HTML 解析器会把它的名字转成小写）。\n- 所有 id 都带上同一个随机前缀，同一页放多张图也不会冲突。\n- 可选动画：强调色元素在 prefers-reduced-motion: no-preference 时做一次缩放弹出，用 transform-box: fill-box。",
+  "media": [
+   "https://pbs.twimg.com/media/HVXlzA8bcAAouXl.jpg"
+  ],
+  "url": "https://x.com/Kubai087/status/2113849121299894727",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "2114389052451606897",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype",
+   "brand-logo",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 33,
+  "views": 1560,
+  "date": "2026-10-25",
+  "user": "Naiknelofar788",
+  "name": "simeon-sanai",
+  "text": "GPT image 2.5\n\nPrompt:\n\nCreate a high-fidelity, visually stunning app UI mockup for [APP NAME], inspired by the polished user experience of leading entertainment platforms such as Spotify and Netflix.\n\nDesign a realistic, professional interface that looks like a finished product created by an expert UI/UX designer. The screen should immediately communicate the app’s purpose, feature its most important content, and make the primary action obvious.\n\n1. App Identity & Layout\n\nApp name: [APP NAME]\nPlatform: [Mobile / Desktop / Tablet]\nScreen: Home / Dashboard\nTarget audience: [TARGET AUDIENCE]\nFeatured content: [SONG / ARTIST / MOVIE / K-DRAMA / SHOW]\nVisual direction: Clean, minimal, premium, modern, and cinematic.\n\n2. Main Screen Composition\n\nCreate a well-organized interface with:\n\nA recognizable app logo and navigation menu.\nA clear header with search, notifications, and profile controls where appropriate.\nA prominent featured-content section with beautiful, relevant artwork.\nThe content title, creator or artist, genre, and a concise description.\nA highly visible primary action button, such as Play, Watch Now, or Explore.\nA secondary action such as Like, Save, or Add to List, where appropriate.\nHorizontally scrolling content cards for recommendations, popular items, or recently played content.\nA persistent bottom navigation or playback bar when appropriate for the platform.\n\n3. Visual Design\n\nUse a sophisticated design system with:\n\nCarefully balanced spacing, alignment, and visual hierarchy.\nCrisp typography with clear distinctions between headings, descriptions, and metadata.\nConsistent margins, rounded cards, subtle shadows, and refined iconography.\nHigh-quality cinematic imagery or album artwork relevant to the featured content.\nA cohesive color palette inspired by the app’s identity.\nRealistic interface details, including progress bars, playback controls, active navigation states, and content thumbnails when relevant.\n\n4. User Experience\n\nMake the screen intuitive, uncluttered, and believable. The user should instantly understand what is featured and how to interact with it. Keep the primary action prominent, secondary controls understated, and supporting content visually organized.\n\n5. Rendering & Presentation\n\nRender the complete interface as a polished, high-resolution product mockup. Show the entire screen clearly, with sharp text, realistic UI components, accurate proportions, and professional lighting or device framing when suitable.\n\nThe final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.\n\nImportant: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.",
+  "media": [
+   "https://pbs.twimg.com/media/HVfRodIbUAAuFal.jpg",
+   "https://pbs.twimg.com/media/HVfRodCbYAA8lTf.jpg"
+  ],
+  "url": "https://x.com/Naiknelofar788/status/2114389052451606897",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "2096513510939529670",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype"
+  ],
+  "likes": 337,
+  "views": 83888,
+  "date": "2026-09-06",
+  "user": "LinearUncle",
+  "name": "LinearUncle",
+  "text": "天呐，gpt-6 astra 真的可以操作 Figma 设计 UI 了！\n我也实测了——真的可以。感谢原帖设计师提醒！\n\n二月我还在感慨：AI 还不能靠 Figma 做出好看界面。\n今天，这句话成历史了,我的界面提示词在图 1，注意使用/goal效果比较好。\n\n做法其实很硬核：\n1. Codex 通过 Figma Scripter 插件跑代码 → 调 Figma Plugin API → 生成可编辑的原生画板/图层，并配好原型跳转；\n2. 晨光背景用 imagegen 生成后导入\n\n3. 浏览器侧主要负责开插件、执行脚本，以及点原型做验证。",
+  "media": [
+   "https://pbs.twimg.com/media/HRhOBjXaoAAOQzC.jpg",
+   "https://pbs.twimg.com/media/HRhOKb3aAAE3QHe.jpg",
+   "https://pbs.twimg.com/media/HRhOZ4fbUAAF6oo.jpg"
+  ],
+  "url": "https://x.com/LinearUncle/status/2096513510939529670",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "2106641508959199730",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 9,
+  "views": 2218,
+  "date": "2026-10-04",
+  "user": "sven_ai",
+  "name": "毅行出海",
+  "text": "🔥 一个 6B 的国产开源图片模型，一出来就登顶 AA UI/UX Design 开源第一。\n\n但我实际用下来发现：\n\n比 Ming-Image-0.1-Design 模型本身更值得玩的，是他们一起开源的这个 UI Design Skill。\n\n它可以一次给你生成 多套完全不同风格的高保真设计图。\n\n先看设计，选方向。选中了，再让 Codex 去改代码。\n\n我拿自己的产品试了一遍，发现这个工作流真的很爽。👇\n\n最近我正好想重做 SoPilot 的落地页。\n\n但做 UI 最麻烦的其实不是写代码。\n\n而是：\n\n你根本不知道自己想要什么。\n\n「更高级一点」\n「更有产品感」\n「清爽一点」\n「视觉冲击力再强一点」\n\n这些需求用文字跟 AI 聊，很容易变成：\nAI 改一版代码\n→ 跑起来\n→ 看效果\n→ 不满意\n→ 再改一版\n→ 还是不满意……\n本质上是在拿代码试设计。\n\n直到我发现蚂蚁百灵开源的：Ling UI Design Skill 🔥\n\n安装过程很简单，只要在 Codex 里说：\n「安装这个 Skill：\nhttps://t.co/Tua2UEuIRk」\n\n然后 Codex 自己就装好了。\n\n但装完以后我发现：这个 Skill 默认使用的是 Novita 的 Key 和接口。\n\n但刚好 OpenRouter 可以免费使用2周 Ming-Image-0.1-Design 模型。\n\n怎么办？以前可能要自己打开 Skill，看代码、找配置、改接口。\n\n现在我直接跟 Codex 说：「把这个 Skill 改成使用 OpenRouter 的 Key 和接口。」\n\n然后……Codex就自己把 Skill 改好了。😂\n\n然后真正有意思的来了。\n\nLing UI Design Skill 不是简单地：“帮我生成一个好看的网页。”\n它内置了 4 种设计方向：\n\nClean 清爽\n浅色、大留白、冷灰表面、克制的蓝色点缀。\n\nWarm 暖调\n奶油色或石色、柔和对比、陶土色或橄榄色点缀。\n\nDark 深色\n近黑背景、高对比文字、少量发光色和玻璃质感。\n\nBold 大胆\n大标题、高饱和色块、强烈的图形对比。\n\n🔥 所以我可以让 Codex：针对同一个页面，一次把几个方向的设计稿都跑出来，看看哪个效果好。\n\n因为以前用 AI Coding 做页面，我经常遇到一个问题：\n\n你跟它说：「做得高级一点。」\n\n它就直接开始改代码。但“高级”到底是什么？\n\n你不知道。AI 也不知道。\n\n最后只能不断地：改代码 → 看效果 → 推翻 → 再改。\n\n而 Ling UI Design Skill 相当于在 Coding 前面加了一层：\nDesign Exploration。\n\n需求\n↓\n一次生成多个视觉方向\n↓\n快速比较\n↓\n选择一个方向\n↓\n继续细化设计\n↓\n最后再让 Codex 实现\n\n这样就顺多了。\n\n🔥 而且我觉得用这个 Skill 还有一个特别有意思的地方：\n\n它本身也是可以继续进化的。\n\n现在官方内置的风格是：Clean / Warm / Dark / Bold\n\n但如果我自己尝试出了一种很好用的新风格，比如：\n\nEditorial 编辑风\nSwiss 瑞士风\nBrutalist 粗野主义\nFuturistic 未来科技风\nData-heavy 数据产品风\n\n效果满意以后，再让 Codex：\n「把这个设计风格加回 Ling UI Design Skill。」\n\n下一次做其他产品，就可以直接复用。\n\n于是整个过程变成：\n\n使用 Skill\n↓\n发现新的设计风格\n↓\n不断测试\n↓\n找到好用的 Prompt\n↓\n沉淀回 Skill\n↓\n以后所有项目继续复用\n\n🔥 这可能才是使用 Skill 最有意思的地方。\n\n模型负责能力。\nSkill 负责经验。\nCoding Agent 负责执行。\n\n而你在使用过程中积累下来的经验，又可以继续写回 Skill。\n所以 Skill 不只是一个 Prompt。\n它更像是：可以不断积累你工作经验的 AI 工作流。\n\n以前：让 AI 直接改页面。\n现在：先让 AI 当设计师，一次给我出几个方向。\n我选一个。再让 AI 当工程师，把它做出来。\n而且用得越多，Skill 还能越改越适合自己。\n\n这个思路，我觉得比单纯“又出了一个更强的生图模型”有意思得多。🚀\n\nLing UI Design Skill：\nhttps://t.co/Tua2UEuIRk\n\nMing-Image-0.1-Design：\nhttps://t.co/xEEdD9E21Q\n\n大家可以收藏起来，去试一试。",
+  "media": [
+   "https://pbs.twimg.com/media/HTxK6hybsAAB-Nd.jpg",
+   "https://pbs.twimg.com/media/HTxK76MaQAABJov.jpg",
+   "https://pbs.twimg.com/media/HTxLBoFbsAADgsS.jpg"
+  ],
+  "url": "https://x.com/sven_ai/status/2106641508959199730",
+  "cat": "01-app-ui"
+ },
+ {
+  "id": "2074716166908772675",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype",
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 47,
+  "views": 4437,
+  "date": "2026-07-08",
+  "user": "derek_wall90176",
+  "name": "Derek Wen｜德里克文",
+  "text": "很多人以为 GPT-Image-2 最厉害的，是“从零画一张图”。\n但它更让设计师兴奋的一种能力，其实是把一张低保真原型图，直接抬升成一张可提案、可评审、可继续迭代的高保真设计稿。\n以前从线框图到高保真，通常要经历找参考、定风格、补配色、换配图、调排版、补细节等等步骤。\n现在很多时候，只要原型结构清楚，\nGPT-Image-2 就能直接接管后半段工作流。\n基于你原有的布局逻辑，继续往下完成视觉化表达。\n\n🎯 核心提示词：\n\n以上传的线框图 / 原型图为参考，生成一张高保真设计稿。\n\n设计类型：【运营活动页 / App界面 / H5页面 / 电商详情页 / 官网页面 / 信息图】\n\n要求：\n1. 保留原始页面的布局结构、信息层级和模块划分\n2. 将线框图中的占位符替换为真实内容\n3. 自动补充配色、图片、图标和排版细节\n4. 强化页面的视觉层级、留白、对齐和模块关系\n5. 整体输出为高完成度的高保真设计稿\n\n视觉风格：【简约现代 / 科技感 / 轻拟物 / 清新 / 品牌感 / 高级感】\n主色调：【填写颜色】\n辅色：【填写颜色】\n画幅比例：【如 9:16 / 4:3 / 16:9】\n\n注意：\n保留原始结构，不要随意打乱模块顺序。\n重点优化视觉表现和真实内容呈现，使其像一张可用于提案展示的完整设计稿。\n\n如果你想让结果更稳，还可以补一句：\n\n保持线框图原有的信息架构不变，只提升视觉完成度与真实感。\n\n💡 核心逻辑\n\n它的价值主要来自三个层面。\n\n1. 把“结构思考”和“视觉表达”接起来\n\n低保真原型图最重要的是结构：\n\n模块怎么分\n信息怎么排\n优先级怎么走\n用户先看什么，再看什么\n\n而高保真设计稿最重要的是表达：\n\n颜色怎么建立品牌感\n图片怎么提升氛围\n字重、字号、留白怎么形成节奏\n页面怎么看起来“完整且专业”\n\n原型图变高保真，本质上是在做一件事：\n\n保留你的逻辑，补足你的表现。\n\n2. 它不是“重新画”，而是“继续设计”\n\n很多人对 AI 有个误解：\n\n以为它一出手，就会把原图改得面目全非。\n\n但这类玩法真正稳定的关键，恰恰是要反复强调：\n\n保留原始布局\n保留模块结构\n保留信息层级\n只把占位符替换成真实内容\n只提升视觉完成度\n\n一句话理解：\n\n不是让 AI 推翻你的原型，而是让它像一个视觉设计师，接着你的 wireframe 往下做。",
+  "media": [
+   "https://pbs.twimg.com/media/HMrfNPDboAAMx1n.jpg",
+   "https://pbs.twimg.com/media/HMrfNPDaAAAjNjp.jpg",
+   "https://pbs.twimg.com/media/HMrfNPAb0AEaVmP.jpg",
+   "https://pbs.twimg.com/media/HMrfReMbMAA_e98.jpg"
+  ],
+  "url": "https://x.com/derek_wall90176/status/2074716166908772675",
+  "cat": "02-wireframe-hifi"
+ },
+ {
+  "id": "1993649538557673779",
+  "tags": [
+   "wireframe-prototype",
+   "icon-illustration"
+  ],
+  "likes": 63,
+  "views": 11755,
+  "date": "2025-11-26",
+  "user": "ZHO_ZHO_ZHO",
+  "name": "-Zho-",
+  "text": "哇！这执行准确度！\n\n✅Nano Banana Pro 纯文字复刻 iPod\n\n看来用文字做一些原型设计是有可能的了，材质质感、比例、文字、图标/符号、图片都很准确\n\nZHNO｜创意系列｜Nano Banana Pro\n\n【Prompt】⬇️ https://t.co/1bkbxMfhLy",
+  "media": [
+   "https://pbs.twimg.com/media/G6rdfbCaEAAyYcE.jpg"
+  ],
+  "url": "https://x.com/ZHO_ZHO_ZHO/status/1993649538557673779",
+  "cat": "02-wireframe-hifi"
+ },
+ {
+  "id": "1991875088774283769",
+  "tags": [
+   "ui-interface",
+   "icon-illustration"
+  ],
+  "likes": 202,
+  "views": 15496,
+  "date": "2025-11-21",
+  "user": "101babich",
+  "name": "Nick Babich",
+  "text": "💎 3 cases of using Nano Banana Pro for Product Design Tasks\n\nGoogle released its new AI image-generation model, Nano Banana Pro. Here is how you can use it in product design\n\n1️⃣ Apply new visual style to existing imagery\n\nYou can apply visual style to both graphic images and UI.\n\nPrompt example: Create a skeuomorphic version of this UI (attach screenshot)\n\n2️⃣ Improve consistency of your design\n\nYou can use Nano Banana to optimise a set of images to make them look more consistent. For example, I use this tool to unify the icon set.\n\nPrompt example: Rebuild icon set in a unified visual language (attach screenshot)\n\n3️⃣ Change image aspect ratio\n\nIf you have an image in a certain ratio (say, 4:3) and want to make it in a different ratio (say, 16:9), Nano Banana can help you with that.\n\nPrompt example: Create the same scene in 16:9 format, keeping composition consistent for the new ratio\n\n#ai #nanobanana #NanobananaAI",
+  "media": [
+   "https://pbs.twimg.com/media/G6SPaFIWsAAauEx.jpg",
+   "https://pbs.twimg.com/media/G6SPVl4WMAAuQZu.jpg",
+   "https://pbs.twimg.com/media/G6SPVl-XsAA70in.jpg",
+   "https://pbs.twimg.com/media/G6SPVmCXUAAZo6B.jpg"
+  ],
+  "url": "https://x.com/101babich/status/1991875088774283769",
+  "cat": "02-wireframe-hifi"
+ },
+ {
+  "id": "2008084668097446153",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype",
+   "web-landing",
+   "brand-logo",
+   "product-render"
+  ],
+  "likes": 5,
+  "views": 829,
+  "date": "2026-01-05",
+  "user": "WoCStreet",
+  "name": "Sri Ram",
+  "text": "I literally designed the landing page for a web app using google nano banana in under 2 minutes. And its looking awesome.\n\nPrompt:\n\n\"Build a modern, production-ready SaaS landing page using Next.js (App Router) and Shadcn UI, based on the rough hand-drawn wireframe provided.\n\nThe wireframe represents layout and hierarchy only — transform it into a polished, premium SaaS design suitable for a real startup launch.\n\nWebsite Description\nCreate a landing page for LaunchNest, a platform that helps founders validate startup ideas, build MVPs quickly, and launch faster without hiring a full team.\n\nThe page should feel:\nFounder-focused\nFast and minimal\nPremium but simple\nConversion-optimized\nThink Stripe × Linear × early-stage startup energy.\nPage Structure (Follow the Wireframe Exactly)\nSticky top navigation bar\nCenter-aligned hero section\nLarge headline (max 6 words)\nShort supporting subheadline (1–2 lines)\nTwo CTA buttons near the hero text\n\nA central mobile phone mockup partially visible from the bottom\n\nFloating stat cards and info cards around the phone\n\nSmall brand/logo text placeholders at the bottom\n\nClean footer alignment\n\nDo not change the layout — only improve visual quality.\n\nBrand & Content (Use Exactly This Text)\n\nBrand Name: LaunchNest\n\nNavigation Bar\nProduct\nHow It Works\nPricing\nResources\nLogin (secondary, outlined)\nGet Started (primary, filled)\n\nHero Section\nHeadline:\nLaunch Your Startup Faster\nSubheadline:\nValidate ideas, build MVPs, and go live in weeks — not months — without hiring a full dev team.\n\nPrimary CTA: Get Started\n Secondary CTA: View Demo\nFloating Stat Cards\n\n⚡ 14 Days Average MVP Launch\n🚀 3× Faster Time to Market\n\nLeft Info Card\n\nValidate ideas before you build\nButton: Explore Ideas\n\nRight Info Card\n\nTurn concepts into real products\nButton: Build MVP\n\nPhone Mockup Overlay Labels\nIdea Validation\n\nMVP Builder\nLaunch Dashboard\nBottom Brand Placeholders\n\nFounder Studio\nEarlyLaunch\nIndieWorks\nMVP Labs\nStartupKit\n\nColor Palette\n\nPrimary Black: #0F0F0F\nWhite: #FFFFFF\nMuted Gray Text: #6B7280\nSoft Gray Background: #F4F4F5\nAccent Yellow Card: #FACC15\nAccent Orange Card: #FB923C\nSoft Purple Gradient: #E9D5FF → #F5E9FF\nDesign Principles\nLarge, bold hero typography\nGenerous spacing and padding\nStrong visual hierarchy\nRounded cards with subtle shadows\nFloating UI elements layered around the phone\nClean grid alignment\nLooks great even with minimal content\nUI & Component Requirements\n\nUse Shadcn UI components:\nButton\nCard\nBadge\n\nSticky navigation bar\n\nPrimary CTA: black background, white text\nSecondary CTA: white background, black border\nPhone mockup centered and partially cut off at bottom\nFloating cards positioned absolutely relative to hero container\n\nFully responsive (mobile → desktop)\n\nTechnical Requirements:\nNext.js App Router\nTailwind CSS\nClean, semantic HTML\nReusable components\nNo placeholder lorem ipsum\nOutput code only, no explanations\"\n\nWill try to bring this to life using Gemini 3 next.",
+  "media": [
+   "https://pbs.twimg.com/media/G94lwHqbsAAminY.jpg"
+  ],
+  "url": "https://x.com/WoCStreet/status/2008084668097446153",
+  "cat": "02-wireframe-hifi"
+ },
+ {
+  "id": "2102163474709389562",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 860,
+  "views": 90934,
+  "date": "2026-09-21",
+  "user": "shannholmberg",
+  "name": "Shann³",
+  "text": "how to improve GPT-6 Astra / Codex's ability to design and code websites\n\nI've been using this approach since GPT Image was released, and the results have kept improving with 2 and 2.5\n\nthe idea is to have Codex generate visual mockups of the website before building it, whether you're reimagining an existing page or starting with an idea from scratch\n\nyou can review the layout, give feedback and agree on the design before it starts writing the frontend\n\nhere's how to use it:\n\n1. give Codex the idea and your context\n\nexplain who the website is for, what it needs to communicate and what you want someone to do when they visit\n\ninclude the material you already have:\n\n> your page copy and product information\n> brand guidelines, fonts, colors and assets\n> screenshots of the existing page if you're redesigning\n> references with notes on what you like about each one\n\nhave it ask about anything missing before generating the mockup\n\nfor an existing website, ask it to inspect the current implementation too, including components and functionality that need to stay\n\n2. ask it to generate the design first\n\nbe explicit that you want an image mockup to review before implementation\n\na starting prompt:\n\n> use imagegen to create a website mockup from this brief and the attached references\n> use the supplied copy, brand assets and product information\n> show the page layout, typography, imagery and calls to action, and wait for my feedback before writing code\n\nyou can request different visual directions if you're still exploring, with each version changing something meaningful like the layout or use of imagery\n\n3. work through the mockup together\n\nreview it as a page someone needs to understand and use\n\n> is the main message clear?\n> does the layout guide attention toward the intended action?\n> is the text readable?\n> does the design fit your brand?\n> are there generic sections or invented details that should be removed?\n\ngive specific feedback on the image, such as increasing the space around the headline, reducing decorative elements or moving the product example higher on the page\n\nask it to revise the chosen mockup while preserving the parts you've approved\n\n4. turn the approved mockup into a build plan\n\nhave Codex identify the sections, reusable components and assets needed to implement the design\n\nagree on what happens when someone interacts with it, including navigation, forms, buttons and any loading or error states\n\nalso define how the layout should adapt to mobile, because a desktop mockup leaves those decisions open\n\nsave the approved image and your decisions in the project so Codex can refer to them during the build\n\n5. find relevant UX / UI skills before building\n\nyou can find these in skill directories and through recommendations on X, UI Skills is one example to explore\n\nhttps://t.co/NSjtzraOfs\n\ngive your Grok Bot the project brief and have it research which skills are popular and worth considering for your stack\n\nask it to check what each skill does, who maintains it and whether its instructions fit the website you're building\n\nthat could include skills for:\n\n> frontend design and component patterns\n> accessibility and responsive layouts\n> animation and interaction design\n> reviewing the finished UI\n\nreview the shortlist, then give Codex the selected skills alongside your design system and approved mockup before implementation\n\n6. build the page from that reference\n\nask Codex to implement the approved design using your project's existing stack and components where appropriate\n\nkeep headings, buttons and forms as working website elements, with illustrations and other generated visuals saved as separate assets\n\na useful implementation prompt:\n\n> build the approved mockup as a responsive page\n> preserve its layout, spacing, typography and visual hierarchy, use the approved copy and implement the interactions we agreed\n> flag anything that needs a design decision before changing it\n\n7. compare the rendered website with the mockup\n\nhave Codex open the implemented page in a browser and capture screenshots at desktop and mobile sizes\n\ncompare those screenshots with the approved design and work through the differences\n\ncheck spacing, font sizes, image proportions, alignment and text wrapping, then test the links, forms and keyboard navigation\n\nafter you've reviewed the page, save the final screenshots and reusable design rules with the project for the next page you build",
+  "media": [
+   "https://pbs.twimg.com/media/HSxiieQawAAI-Dh.jpg"
+  ],
+  "url": "https://x.com/shannholmberg/status/2102163474709389562",
+  "cat": "03-web-landing"
+ },
+ {
+  "id": "2000602654490407265",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 348,
+  "views": 52296,
+  "date": "2025-12-15",
+  "user": "ttmouse",
+  "name": "ttmouse - 豆爸",
+  "text": "发现一个设计神器！  \n\n你可以直接用这些设计提示词来改造你的产品。\n\nhttps://t.co/lRwhZjD8Iw  \n\n里面打包了30+种经典网页设计风格  \n\n比如报纸风、黑白极简、包豪斯、SaaS现代感、奢华风……  \n\n每种风格都用同一套数据渲染出完整界面  \n\n视觉对比超强！  \n\n最爽的是：  \n\n每个风格的完整提示词都能直接复制！  \n\n用法简单粗暴：  \n\n选一个喜欢的风格  \n\n点“Get Prompt”复制提示词  \n\n粘到Grok或其他AI里  \n\n再描述你的产品需求  \n\n让AI瞬间帮你改造UI，换新风格  \n\n国外开发者用Claude Opus生成的  \n\n质量高到爆  \n\n设计师、产品人、独立开发者直接收藏！  \n\n谁已经试过了？  \n\n改造前后对比发来看看？  \n\n来自 @0xbisc 的分享。\n\n#DesignPrompts #AIDesign #提示词 #UI改造 #产品工具",
+  "media": [
+   "https://pbs.twimg.com/media/G8OQlgua4AAkj1n.jpg"
+  ],
+  "url": "https://x.com/ttmouse/status/2000602654490407265",
+  "cat": "03-web-landing"
+ },
+ {
+  "id": "2037167987191668828",
+  "tags": [
+   "ui-interface",
+   "icon-illustration"
+  ],
+  "likes": 141,
+  "views": 10726,
+  "date": "2026-03-26",
+  "user": "ianneo_ai",
+  "name": "Ian (伊恩)",
+  "text": "宝藏网站，专门做 AI 设计风格提示词的\n\n31 种设计风格——Terminal CLI、Glassmorphism、Material Design。。。每种风格点进去，不是给你看个效果图就完了\n\n它给你一份完整的 system prompt\n\n角色定义、色彩规范、字体规则、间距逻辑、组件规范、实施步骤——全部打包好\n\n点 Copy Prompt，粘贴到 Claude 或 Cursor 里，让 AI 按这份设计规范写代码\n\n我测了 Terminal CLI 风格——复古未来主义终端美学，高对比度 + 等宽字体 + 绿色荧光\n\n出来的界面跟我之前说一句做个终端风格出来的东西，完全不是一个级别\n\n本质就一句话：AI 不缺能力，缺的是设计规范。你喂的越精确，它出的越好\n\n免费，直接用",
+  "media": [
+   "https://pbs.twimg.com/media/HEV5VmpbYAEXWrh.jpg",
+   "https://pbs.twimg.com/media/HEV5VmxbEAAWmbt.jpg",
+   "https://pbs.twimg.com/media/HEV5YidbYAUkEP-.jpg",
+   "https://pbs.twimg.com/media/HEV5aKTbYAQ4Lnv.jpg"
+  ],
+  "url": "https://x.com/ianneo_ai/status/2037167987191668828",
+  "cat": "03-web-landing"
+ },
+ {
+  "id": "2037649149009760368",
+  "tags": [
+   "ui-interface",
+   "web-landing"
+  ],
+  "likes": 188,
+  "views": 22276,
+  "date": "2026-03-27",
+  "user": "brunobertolini",
+  "name": "Bruno Bertolini • awesome.codar.me",
+  "text": "Usei o mesmo processo pra criar essa landing page. Sem designer. Sem template.\n\nO problema de pedir pra IA \"cria uma landing page pra mim\" é que ela vai criar. E vai ficar genérica. Parece site de dentista feito no Wix em 2019.\n\nO que muda o resultado é o que você faz antes de pedir. Apliquei o framework exatamente assim pra essa LP:\n\nRESEARCH - REFERÊNCIA VISUAL: Antes de escrever uma palavra, defini o clima da página. Paleta de cores (tons pastel, creme, rosa chá, verde menta), referência de estrutura, e o tipo de sensação que a página precisava passar. No caso, era um produto infantil cristão, precisava ser acolhedor, limpo, leve (sendo honesto, essa parte minha esposa que fez e me passou o que ela queria). Eu juntei algumas referências visuais e mandei pro Claude junto com o briefing.\n\nSem referência visual, a IA chuta. Com referência, ela executa.\n\nPRD - ESTRUTURA E CONTEÚDO: Ainda no Claude, fui definindo seção por seção. Não cheguei com a estrutura pronta, fui conversando. \"Precisa de newsletter?\" \"Mostra todos os livros ou só os lançados?\" \"A bio da autora foca em credencial ou em história pessoal?\"\n\nA IA me questionou em decisões que eu ia tomar no automático. Tipo a foto do about: eu ia colocar uma foto da família inteira. O Claude sugeriu só mãe e filha, porque o público são mães e a identificação é imediata.\n\nSaí dessa etapa com: estrutura completa de seções, textos de cada bloco, paleta com hex codes, tipografia, espaçamento.\n\nEXEC -  PROMPT DETALHADO PRO AURA: Aqui é onde a maioria começa. E por isso o resultado fica genérico.\n\nPrimeiro, gerei a imagem de hero no Nano Banana, depois, com tudo definido antes, montei um prompt que descrevia cada seção com: texto final, cor de background, cor de botão, fonte, tamanho, estilo de card. Colei no https://t.co/R41uoS5vyS, que é melhor que o stitch ou qualquer outra tool pra LP,  e saiu a LP inteira de primeira.\n\nQUALITY GATE - REVISÃO: Olhei a página pronta e fui impiedoso. Tudo que não tinha informação real, tirei. Placeholder de qualquer tipo saiu. Se não tá pronto, não mostra. Depois passei no https://t.co/dmHuxcuvGp pra revisar posicionamento e estrutura de conversão, copy...\n\nO ponto é: LP bonita com IA não é sobre a ferramenta. É sobre o que você alimenta ela antes de pedir. Um designer faria melhor? Sem dúvidas, mas eu nunca seria capaz de criar isso sem AI.\n\nReferência visual → Estrutura com a IA → Prompt detalhado → Execução → Revisão.\n\nhttps://t.co/qyDJli4R9X",
+  "media": [
+   "https://pbs.twimg.com/media/HEcu_Uoa4AAqYtV.jpg"
+  ],
+  "url": "https://x.com/brunobertolini/status/2037649149009760368",
+  "cat": "03-web-landing"
+ },
+ {
+  "id": "2107372841180311578",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration"
+  ],
+  "likes": 61,
+  "views": 6830,
+  "date": "2026-10-06",
+  "user": "GitHub_Daily",
+  "name": "GitHubDaily",
+  "text": "让 AI 做个页面，经常是同一套模样，渐变紫、居中大标题、三张圆角卡片，一眼就能认出是 AI 做的。\n\n最近看到 oil-ui 这个 Skill，专门用来提升 AI 的 UI 设计水平，先认清这是什么产品，找同类里风格最鲜明的两三家拆开看，再决定沿用什么、换掉什么。\n\n动手前先从能量、完成度、密度、分量、严肃度 5 个刻度定调性，「高级」「简洁」这类空词会被翻成用什么字、留多少白、颜色占多大面积。\n\nGitHub：https://t.co/FOre5Dg6Uc\n\n几份小样会放进同一个对比页，能切电脑和手机尺寸，看中了点「选择」，复制一句话贴回给 Agent 就接着往下做。\n\n几个方向之间还要拉开差别，骨架、字体、色彩、主视觉 4 项里最多 1 项相同。\n\n官网画廊里有学英语 App、打车 App、胶片相机官网这些作品，可以先去看效果。\n\n开源版装上就能用，不需要额外的 API Key。想让 AI 做的页面别那么千篇一律，可以拿它试试。",
+  "media": [
+   "https://pbs.twimg.com/media/HT7kZ7pb0AAXKC2.jpg"
+  ],
+  "url": "https://x.com/GitHub_Daily/status/2107372841180311578",
+  "cat": "03-web-landing"
+ },
+ {
+  "id": "2050479284075262340",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "ux-research",
+   "product-render"
+  ],
+  "likes": 1198,
+  "views": 69982,
+  "date": "2026-05-02",
+  "user": "Just_sharon7",
+  "name": "Sharon Riley",
+  "text": "GPT Image 2\n\n{\n  \"prompt\": {\n    \"title\": \"Agency-Grade Brand Identity System Poster\",\n    \"trigger\": \"Upload a logo. From it, construct a complete, investment-worthy brand identity system poster — the kind that closes client deals and dominates Behance front pages.\",\n\n    \"prime_directive\": {\n      \"rule\": \"Every element — color, tone, shape, texture, personality — must be extracted directly from the uploaded logo.\",\n      \"enforcement\": \"Nothing generic. Nothing templated. Nothing borrowed. Strip the logo. Decode it. Build an entire visual universe from its DNA.\"\n    },\n\n    \"format\": {\n      \"orientation\": \"Vertical\",\n      \"aspect_ratio\": \"4:5\",\n      \"layout\": \"Multi-column grid\",\n      \"composition\": \"Layered, dense, intentional — zero wasted space\"\n    },\n\n    \"sections\": {\n\n      \"01_brand_header\": {\n        \"label\": \"Open With Authority\",\n        \"elements\": [\n          \"Brand name in commanding, high-hierarchy typography\",\n          \"Brand statement — 6 words maximum, razor-sharp\",\n          \"Three soul descriptors (e.g. Raw / Futuristic / Grounded)\"\n        ]\n      },\n\n      \"02_color_system\": {\n        \"label\": \"Build The Color World\",\n        \"palettes\": {\n          \"primary\": \"3–5 colors extracted from logo\",\n          \"secondary\": \"3–5 supporting colors\",\n          \"accent\": \"High-impact hit colors\"\n        },\n        \"per_color_display\": [\n          \"Wide swatch block\",\n          \"HEX code\",\n          \"Role label: foundation / emphasis / atmosphere\"\n        ],\n        \"extras\": [\n          \"Gradient blends\",\n          \"Color-on-color pairings\",\n          \"Light mode vs dark mode behavior\"\n        ]\n      },\n\n      \"03_typography_system\": {\n        \"label\": \"Establish The Type Voice\",\n        \"tiers\": {\n          \"headline\": \"Commanding, bold — show a punchy title example\",\n          \"subheadline\": \"Structured, clear — show a descriptive line example\",\n          \"body\": \"Readable, intentional — show a paragraph fragment example\"\n        },\n        \"requirement\": \"Hierarchy must be undeniable at a glance\"\n      },\n\n      \"04_visual_language\": {\n        \"label\": \"Define The Visual World\",\n        \"define\": [\n          \"Image style (editorial / industrial / cinematic / organic / etc.)\",\n          \"Lighting quality and direction\",\n          \"Texture references and material moods\"\n        ],\n        \"visual_tiles\": {\n          \"count\": \"3–5 tiles\",\n          \"style\": \"Art-directed style previews — mood board squares from a real shoot brief\"\n        }\n      },\n\n      \"05_brand_applications\": {\n        \"label\": \"Bring The Brand To Life\",\n        \"rule\": \"Every mockup must feel like the same brand. Same DNA. Zero inconsistency.\",\n        \"mockups\": [\n          {\n            \"type\": \"Product Packaging\",\n            \"detail\": \"Dimensional, realistic render\"\n          },\n          {\n            \"type\": \"Website Hero\",\n            \"detail\": \"Full desktop viewport\"\n          },\n          {\n            \"type\": \"Mobile App Screen\",\n            \"detail\": \"One key UI moment\"\n          },\n          {\n            \"type\": \"Social Media Posts\",\n            \"detail\": \"3 formats — square, story, banner\"\n          },\n          {\n            \"type\": \"Business Card\",\n            \"detail\": \"Front and back\"\n          },\n          {\n            \"type\": \"Out-of-Home Ad\",\n            \"detail\": \"Billboard or transit panel\"\n          }\n        ]\n      },\n\n      \"06_design_system\": {\n        \"label\": \"Show The System Working\",\n        \"components\": [\n          \"Buttons — default, hover, disabled states\",\n          \"Cards\",\n          \"Input fields\",\n          \"Navigation bar\",\n          \"Spacing scale\"\n        ],\n        \"requirement\": \"Must resemble a real design system handoff document\"\n      },\n\n      \"07_iconography\": {\n        \"label\": \"Iconography\",\n        \"count\": \"6–10 icons\",\n        \"style_rule\": \"Same visual grammar as the logo — geometric, organic, sharp, or soft\",\n        \"consistency\": \"Uniform stroke weight or fill logic throughou",
+  "media": [
+   "https://pbs.twimg.com/media/HHTEBxwbAAAdbs4.jpg"
+  ],
+  "url": "https://x.com/Just_sharon7/status/2050479284075262340",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "1996091290509832533",
+  "tags": [
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "ux-research"
+  ],
+  "likes": 1026,
+  "views": 182322,
+  "date": "2025-12-03",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana pro prompt\n\nA realistic cyber-aesthetic futuristic business card photograph\n\n---- Prompt ----\n\nA realistic cyber-aesthetic futuristic business card photograph: a left hand is holding a horizontal, acrylic, borderless card the size of a standard business card (3.5\" × 2\" ratio), filling most of the frame. The card displays a personal business card layout without any banners or background images. It features smooth, rounded edges and emits a soft neon glow with gradients of blue, pink, and purple. The background is dark and blurred to highlight the glowing edges, while cinematic reflections of light appear on the fingertips holding the card, creating a high-tech, holographic atmosphere. The card surface is crystal-clear, and the text elements appear finely engraved.\nIf a logo is provided, integrate it into the design; if not, create a clean typographic logo based on the company name.\n\nIf any field is left blank, automatically fill it with visually appealing and context-appropriate design elements.\n\nThe final business card should have a balanced layout, clean lines, and clear visual hierarchy, suitable for professional printing.\n\nName: [Insert Name]\nTitle: [Insert Title]\nCompany Name: [Insert Company Name]\nLogo: [Use attachment / Create based on company name / Leave blank]\nContact Information: \n  - Phone ( icon ): [Phone Number]\n  - Email ( icon ): [Email Address]\n  - Website ( icon ): [Website Url]\nX (X logo): [X username, e.g. @dotey]\nAdditional Elements: [Social media / QR code / Tagline / Leave blank]\n\n-----\n\nName: Sam Altman\n Title: CEO\n Company Name: OpenAI\n Contact Information:\n  • Phone (icon): +1 (555) 010-AI01\n  • Email (icon): sam.altman@openai.example\n  • Website (icon): https://t.co/lnMiwXm1iA\n Logo: Create based on company name\n X (X logo): @sama\n Additional Elements: Tagline: “Advancing safe AGI for humanity”",
+  "media": [
+   "https://pbs.twimg.com/media/G7OKU8AWoAAejrh.jpg",
+   "https://pbs.twimg.com/media/G7OKYg3W8AA2LST.jpg",
+   "https://pbs.twimg.com/media/G7OKYhEWoAAWQRZ.jpg",
+   "https://pbs.twimg.com/media/G7OKYg_W4AAci0s.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1996091290509832533",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2029563852136849515",
+  "tags": [
+   "brand-logo"
+  ],
+  "likes": 257,
+  "views": 28791,
+  "date": "2026-03-05",
+  "user": "AmirMushich",
+  "name": "AmirMušić",
+  "text": "Nano Banana branding prompt:\n\nBrand DNA board\n\nPrompt 👇 https://t.co/IDKhVL5HMc",
+  "media": [
+   "https://pbs.twimg.com/media/HCp1kWIXcAAIPvM.jpg"
+  ],
+  "url": "https://x.com/AmirMushich/status/2029563852136849515",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2050394546778050915",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "ux-research",
+   "product-render"
+  ],
+  "likes": 424,
+  "views": 22619,
+  "date": "2026-05-02",
+  "user": "Naiknelofar788",
+  "name": "simeon-sanai",
+  "text": "Bold visuals. Clean design. Stories that stay. \n\nGPT image 2 on ChatGPT\n\nprompt:\n\nThis must feel like a real professional brand guideline board\nCORE RULE:\n\nEverything must be derived from the uploaded logo:\n- colors\n- style\n- tone\n- personality\n\nNo generic outputs.\n\nSTRUCTURE (VERY IMPORTANT):\n\nVertical 4:5 poster  \nMulti-layered grid system  \nDense but clean composition  \n\nTOP SECTION:\n\n- Brand name (clean typography)\n- Short brand statement (max 6 words)\n- 3-word brand identity (e.g. “Modern / Bold / Minimal”)\n\nCOLOR SYSTEM (ADVANCED):\n\n- Primary palette (3–5 colors)\n- Secondary palette (3–5 colors)\n- Accent colors\n\nFor each:\n- large color blocks\n- HEX codes (short)\n- usage indicators (primary / highlight / background)\n\nAdd:\n- gradient examples\n- color combinations\n\nTYPOGRAPHY SYSTEM:\n\n- Headline font style  \n- Subheadline style  \n- Body text style  \n\nShow:\n- real text examples (short phrases)\n- hierarchy clearly visible\n\nVISUAL LANGUAGE:\n\nDefine:\n- image style (editorial, cinematic, minimal, etc.)\n- lighting direction\n- texture / material inspiration\n\nShow:\n- 3–5 visual tiles (image-style previews)\n\nBRAND APPLICATIONS (VERY IMPORTANT):\n\nShow multiple realistic mockups:\n\n- product packaging  \n- website hero section  \n- mobile UI screen  \n- social media posts (3 variations)  \n- business card  \n- billboard or ad  \n\nEach must feel consistent with the brand.\n\nLAYOUT SYSTEM:\n\n- UI blocks  \n- card components  \n- spacing system  \n\nShow:\n- buttons, cards, layout examples  \n\nICONOGRAPHY:\n\n- 6–10 icons in brand style  \n- consistent line / fill style  \n\nPATTERNS & ELEMENTS:\n\n- background patterns  \n- decorative shapes  \n- visual motifs derived from logo  \n\nMICRO DETAILS (TO SHOW POWER):\n\n- shadows  \n- material textures  \n- reflections  \n- depth layers  \n\nVISUAL STYLE (CRITICAL):\n\n- modern editorial + tech design hybrid  \n- extremely clean but information-rich  \n- layered composition  \n- strong hierarchy  \n\nTypography:\n- bold titles  \n- clean supporting text  \n\nDEPTH:\n\n- 30–50 visual elements total  \n- mix of large + small components  \n- dense but organized  \n\nIMPORTANT RULES:\n\n- no empty space  \n- no generic placeholders  \n- everything must feel intentional  \n- all elements must visually connect  \n\nFINAL FEEL:\n\nLike:\n- a Behance top project  \n- a real agency brand guideline board  \n- something clients would pay for  \n\nNOT:\n- basic  \n- minimal  \n- template-like",
+  "media": [
+   "https://pbs.twimg.com/media/HHR29iLaoAAgPs4.jpg",
+   "https://pbs.twimg.com/media/HHR29iPbAAAe8VY.jpg"
+  ],
+  "url": "https://x.com/Naiknelofar788/status/2050394546778050915",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2103696085411897400",
+  "tags": [
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 106,
+  "views": 9196,
+  "date": "2026-09-26",
+  "user": "GitHub_Daily",
+  "name": "GitHubDaily",
+  "text": "我一直觉得用 AI 画 Logo 最大的毛病是画得太满，细节一多，缩成 App 图标就糊成一团。\n\nip-as-logo 这个 Skill 反着来，只画圆滚滚的吉祥物，四到七个大块形状拼出轮廓，两种主色加一个纯色背景，多余的线条都删掉。\n\n先给三个方向，点头后一次出 6 张，三张从左下角探出来，三张从右下角，要配 GPT Image 2 或 Nano Banana Pro 这类生图模型用。\n\n不想折腾 Skill 的，可以查看它官网上有现成的，都能免费商用。\n\nGitHub：https://t.co/Q2vTsS9Z70",
+  "media": [
+   "https://pbs.twimg.com/media/HTHUb1abIAA88ey.jpg"
+  ],
+  "url": "https://x.com/GitHub_Daily/status/2103696085411897400",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2114891628561510544",
+  "tags": [
+   "brand-logo"
+  ],
+  "likes": 7877,
+  "views": 598064,
+  "date": "2026-10-27",
+  "user": "awe0_io",
+  "name": "awe0",
+  "text": "目前看到的最猛 AI Logo 工具「Rikyu」。\n\n跟一般 AI 生图不太一样，它是直接用「几何图形去构造 Logo」。\n\n你只要给它一段描述，它就会真的用圆、线条、几何图形去设计。\n\n我觉得这条路线蛮值得关注。\n\n因为如果 AI Design 最后只是「更快地生成图片」，那跟 Midjourney、GPT Image 的差异其实有限。\n\n但如果 AI 开始理解：\n\n比例、几何、版面、视觉系统、设计规则，\n\n那才真的比较像是在取代「设计工具」本身。\nhttps://t.co/w11p8TUpj7",
+  "media": [
+   "https://pbs.twimg.com/media/HVmauJUbcAA7dxU.jpg",
+   "https://pbs.twimg.com/media/HVmauJbaYAAOcOF.jpg",
+   "https://pbs.twimg.com/media/HVmauJYaUAAwS76.jpg",
+   "https://pbs.twimg.com/media/HVmauJYbYAAq66D.jpg"
+  ],
+  "url": "https://x.com/awe0_io/status/2114891628561510544",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2028724796230635684",
+  "tags": [
+   "brand-logo"
+  ],
+  "likes": 1827,
+  "views": 174674,
+  "date": "2026-03-03",
+  "user": "0xAllen",
+  "name": "0xAllen",
+  "text": "这个 Skill 一出，Logo设计师可以下岗了！\n\n小米当时花了几百万请日本设计师改Logo，最后大家评价改了个寂寞。设计的玄学就是这么强。\n\n最近在重构灯塔时需要新Logo，作为 AI 的重度用户就拉着AI一起来设计新Logo，前后30分钟从哲学思想到视觉设计一个Skill搞的明明白白的，最关键设计我很喜欢！\n\n这个 Skill 就是：canvas-design\n\n和一般设计不同的是，用canvas设计可以从哲学思想到视觉效果进行深度沟通以后直接出图。他不是简单的你让画啥就画啥，而是先从灵魂深层理解你的诉求最后再完成设计。\n\n比较爽的是，一键生成PNG、SVG以及各种各样的布局和尺寸。安装使用方法也很简单：\n\nnpx skills add https://github。com/anthropics/skills --skill canvas-design --agent claude-code -y",
+  "media": [
+   "https://pbs.twimg.com/media/HCd38o3XUAAWXuh.jpg"
+  ],
+  "url": "https://x.com/0xAllen/status/2028724796230635684",
+  "cat": "04-brand-logo"
+ },
+ {
+  "id": "2104107699583463686",
+  "tags": [
+   "icon-illustration"
+  ],
+  "likes": 685,
+  "views": 120619,
+  "date": "2026-09-27",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "Opus 5.5 让你实现 App Icon 设计自由\n\n当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。\n\n这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。\n\n于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：\n\n> 帮我为 https://t.co/L0sZizDFrd 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent\n> 可以直接用 js 绘制 canvas\n\n注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。\n\n后面就跟甲方一样不停的让它修改就好：\n比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。",
+  "media": [
+   "https://pbs.twimg.com/media/HTNJtd_XEAA4NdG.jpg",
+   "https://pbs.twimg.com/media/HTNKePlXMAAdP_Q.jpg",
+   "https://pbs.twimg.com/media/HTNKePHWMAA6tE6.jpg",
+   "https://pbs.twimg.com/media/HTNKePpXQAA2wK2.jpg"
+  ],
+  "url": "https://x.com/dotey/status/2104107699583463686",
+  "cat": "05-icon-illustration"
+ },
+ {
+  "id": "2002582724280975530",
+  "tags": [
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 2000,
+  "views": 709814,
+  "date": "2025-12-21",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT\n\n大家都很喜欢 NotebookLM 生成的 Slide Deck（幻灯片）风格也很棒。👇 https://t.co/u6FGYZuWsl",
+  "media": [
+   "https://pbs.twimg.com/media/G8qXMBfXkAA5SJi.jpg"
+  ],
+  "url": "https://x.com/dotey/status/2002582724280975530",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "1994640215160287637",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "infographic-dataviz",
+   "product-render"
+  ],
+  "likes": 947,
+  "views": 133779,
+  "date": "2025-11-29",
+  "user": "op7418",
+  "name": "歸藏(guizang.ai)",
+  "text": "🍌Nano Banana Pro PPT 生成提示词\n\n整了一套非常漂亮的渐变拟物玻璃卡片风格 PPT 提示词，可以在 NotebookLM、Youmind、Listenhub、Lovart等支持 Nano Banana Pro 生成 PPT 的位置使用\n\n------\n\n你是一位专家级UI UX演示设计师，请生成高保真、未来科技感的16比9演示文稿幻灯片。请根据视觉平衡美学，自动在封面、网格布局或数据可视化中选择一种最完美的构图。\n\n全局视觉语言方面，风格要无缝融合Apple Keynote的极简主义、现代SaaS产品设计和玻璃拟态风格。整体氛围需要高端、沉浸、洁净且有呼吸感。光照采用电影级体积光、柔和的光线追踪反射和环境光遮蔽。配色方案选择深邃的虚空黑或纯净的陶瓷白作为基底，并以流动的极光渐变色即霓虹紫、电光蓝、柔和珊瑚橙、青色作为背景和UI高光点缀。\n\n关于画面内容模块，请智能整合以下元素：\n\n1. 排版引擎采用Bento便当盒网格系统，将内容组织在模块化的圆角矩形容器中。容器材质必须是带有模糊效果的磨砂玻璃，具有精致的白色边缘和柔和的投影，并强制保留巨大的内部留白，避免拥挤。\n\n2. 插入礼物质感的3D物体，渲染独特的高端抽象3D制品作为视觉锚点。它们的外观应像实体的昂贵礼物或收藏品，材质为抛光金属、幻彩亚克力、透明玻璃或软硅胶，形状可是悬浮胶囊、球体、盾牌、莫比乌斯环或流体波浪。\n\n3. 字体与数据方面，使用干净的无衬线字体，建立高对比度。如果有图表，请使用发光的3D甜甜圈图、胶囊状进度条或悬浮数字，图表应看起来像发光的霓虹灯玩具。\n\n构图逻辑参考： 如果生成封面，请在中心放置一个巨大的复杂3D玻璃物体，并覆盖粗体大字，背景有延伸的极光波浪。 如果生成内容页，请使用Bento网格布局，将3D图标放在小卡片中，文本放在大卡片中。 如果生成数据页，请使用分屏设计，左侧排版文字，右侧悬浮巨大的发光3D数据可视化图表。\n\n渲染质量要求：虚幻引擎5渲染，8k分辨率，超细节纹理，UI设计感，UX界面，Dribbble热门趋势，设计奖获奖作品。",
+  "media": [
+   "https://pbs.twimg.com/media/G65g9IrbkAUR2pZ.jpg"
+  ],
+  "url": "https://x.com/op7418/status/1994640215160287637",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "1996344184840868264",
+  "tags": [
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 1283,
+  "views": 255378,
+  "date": "2025-12-03",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana pro prompt\n\nIsometric Miniature Stock Scene\n\nEnter a company name or stock ticker to generate an exquisite, miniature isometric 3D scene integrating real-time stock data for the specified date.\n\ninspired by @keithso27 's tweet\n\n----\n\nPresent an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.\n\nPlace the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.\n\nRendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.\n\nCreatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.\n\nAt the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.\n\nAll texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.\n\nVery Important:\nBefore generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.\n\nParameters:\n\n* Aspect ratio: {User input, default 1:1}\n* Date: {User input, current date}\n* Company name or stock ticker: {User input}\n\n---\n\nCompany Name / Stock Ticker: Google\nDate: 12/3/2025",
+  "media": [
+   "https://pbs.twimg.com/media/G7RvpdEWgAALFQZ.jpg",
+   "https://pbs.twimg.com/media/G7RvrTJXgAA1E3O.jpg",
+   "https://pbs.twimg.com/media/G7RvrS7WYAAtckM.jpg",
+   "https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1996344184840868264",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "1996303762428731486",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 286,
+  "views": 66802,
+  "date": "2025-12-03",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana pro prompt\n\nCreate a hand-drawn style infographic card for a topic.\n\n--- Prompt ---\n\nCreate a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background featuring subtle paper texture, conveying a friendly and handcrafted aesthetic.\n\nAt the top of the card, use a large, expressive brush-stroke lettering style (similar to bold brush calligraphy in English) with strong contrast—primarily in red and black—to highlight the title and draw immediate attention. All text on the card should be written in a flowing hand-painted script style, maintaining an artistic rhythm while ensuring legibility.\n\nOrganize the layout into 2 to 4 clearly defined sections, each containing short, concise phrases that express the key ideas. The handwritten script should feel dynamic and natural, enhancing the overall visual harmony.\n\nAdd small, simple, and engaging hand-drawn illustrations or symbolic icons—such as characters, objects, or conceptual symbols—to reinforce the message and enhance visual interest. Maintain balanced composition and adequate breathing room, ensuring the design remains clean, readable, and visually appealing.\nTheme: {topic}\n\n---\n\ntopic: “If you can't explain it simply, you don't understand it well enough.” — Feynman",
+  "media": [
+   "https://pbs.twimg.com/media/G7RLpGbW8AEDqyA.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1996303762428731486",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "2047493663580659734",
+  "tags": [
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 158,
+  "views": 17424,
+  "date": "2026-04-24",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "GPT Image 2 Prompt：one-page hand-drawn educational infographic\n\n--- Prompt ---\n\nCreate a one-page hand-drawn educational infographic.\n\nStyle:\nWarm cream paper background (#F5F0E8), clean sketchnote style with slight hand-drawn wobble. No realistic elements. Looks like a high-quality slide summary.\n\nColor:\nUse pastel rounded cards for sections:\nlight blue #A8D8EA, mint #B5E5CF, lavender #D5C6E0, peach #F4C7AB.\nUse coral red #E8655A for highlights (keywords, key data, checkmarks).\nMain text and outlines in black, annotations in warm gray #6B6B6B.\n\nDesign:\nVisual-first. Use icons, doodles, simple diagrams instead of text.\nClear structure at a glance (flow, comparison, grouped cards, etc.).\nSeparate sections with rounded boxes, bubbles, or dashed frames.\nConnect sections with hand-drawn wavy arrows + short labels.\n\nTypography:\nCentered bold hand-drawn title on top.\nInside sections: bold keywords + small gray labels (2–5 words).\n\nDetails:\nSlightly imperfect color fill (not fully inside outlines).\nAdd small doodles (stars, arrows, underlines).\nKeep plenty of whitespace, clean layout.\n\nFooter:\nAdd one bold centered takeaway sentence at the bottom.\n\nContent:\n<insert your content here>",
+  "media": [
+   "https://pbs.twimg.com/media/HGokHxXWwAE52f1.jpg"
+  ],
+  "url": "https://x.com/dotey/status/2047493663580659734",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "1994598434335330697",
+  "tags": [
+   "icon-illustration",
+   "infographic-dataviz"
+  ],
+  "likes": 607,
+  "views": 87921,
+  "date": "2025-11-29",
+  "user": "sundyme",
+  "name": "sundyme",
+  "text": "找到了一种非常喜欢的nano banana pro玩法：用等角透视像素画风格打造某一领域的发展纪年史。🍌对像素画的理解真的很到位，像素画的美学风格还原的惟妙惟肖，比如这幅“艺术流派发展史”。完整提示词见评论区，大家可以让Gemini参考这种风格构思生成各种领域话题的像素风可视化海报。 https://t.co/KhRQOdsGRv",
+  "media": [
+   "https://pbs.twimg.com/media/G644XUIbkAAAwZF.jpg"
+  ],
+  "url": "https://x.com/sundyme/status/1994598434335330697",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "2052942818570543550",
+  "tags": [
+   "ui-interface",
+   "brand-logo",
+   "icon-illustration",
+   "infographic-dataviz",
+   "product-render"
+  ],
+  "likes": 227,
+  "views": 35570,
+  "date": "2026-05-09",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "GPT Image 2 Prompt：中文科技新闻爆款封面生成器\n\n--- Prompt ---\n\n你是一名顶级中文科技媒体视觉设计师。\n\n你的任务是：\n\n根据用户输入的一整篇文章内容，自动提取核心新闻、关键数字、核心产品、行业情绪和信息层级，并生成一张高冲击力的中文科技新闻文章封面图。\n\n图片比例：16:9 横版。\n\n---\n\n【整体风格】\n\n生成一张「中文科技媒体爆款封面图」。\n\n整体风格参考：\n\n* 中国科技媒体头图\n* B站科技区爆款缩略图\n* 财经新闻视觉\n* 游戏行业信息图\n* 高冲击力 YouTube Thumbnail\n* “行业突发新闻”视觉风格\n\n要求：\n\n* 强烈视觉冲击\n* 信息密度高\n* 3 秒内看懂新闻重点\n* 专业媒体感\n* 大量数据卡片\n* 中文粗黑大标题\n* 明确的产品主视觉\n* 明确的情绪表达\n* 不要极简风\n* 不要 Apple 风\n* 不要电影海报风\n* 要像“行业大事件”\n\n---\n\n【自动分析文章】\n\n你必须先自动从文章中提取：\n\n1. 最适合作为封面的主标题\n2. 最有冲击力的副标题\n3. 最重要的数字\n4. 最大涨幅、跌幅或变化幅度\n5. 最核心的产品、品牌或人物\n6. 最能制造视觉冲击的信息\n7. 用户最关心的结论\n8. 文章整体情绪\n\n文章情绪可以是：\n\n* 暴涨\n* 暴跌\n* 涨价\n* 崩盘\n* 封禁\n* 突破\n* 发布\n* 革命\n* 危机\n* 反转\n* 震动\n* 警告\n* 机会\n* 行业洗牌\n\n然后把这些信息转化为视觉设计。\n\n---\n\n【构图结构】\n\n画面采用高密度信息图式布局，自动生成以下区域：\n\n1. 顶部新闻区\n\n* 放品牌名、产品名或行业标签\n* 加入“突发”“官方宣布”“重磅”“最新”“行业震动”等新闻标签\n* 标签内容根据文章情绪自动选择\n\n2. 中央超大标题区\n\n* 使用超巨大中文标题\n* 字体粗壮\n* 强烈立体感\n* 可带轻微破损、压迫、速度或科技纹理\n* 关键词用高亮色突出\n* 标题必须短、狠、直接\n* 让读者 3 秒内知道发生了什么\n\n3. 主视觉产品区\n\n* 自动识别文章中的核心产品、品牌、设备、人物或象征物\n* 将其作为画面最大视觉主体之一\n* 产品应有透视感、层次感、光效和冲击力\n* 背后可以加入行情图、能量光、箭头、爆炸线、科技 HUD、速度线等元素\n\n4. 数据卡片区\n\n自动把文章中的关键信息做成多个卡片，包括但不限于：\n\n* 价格变化\n* 涨跌幅\n* 时间节点\n* 地区差异\n* 销量\n* 成本\n* 市值\n* 用户影响\n* 行业对比\n\n数据卡片要求：\n\n* 旧数据可以使用删除线\n* 新数据必须更醒目\n* 百分比、金额、时间必须突出\n* 每张卡片只表达一个重点\n* 卡片之间层级清晰，不要堆成一团\n\n5. 底部总结区\n\n自动提取文章中的 3–5 个结论，做成图标化摘要：\n\n* 原因\n* 影响\n* 趋势\n* 风险\n* 机会\n* 用户建议\n* 行业判断\n\n每个结论用「图标 + 短句」呈现。\n\n---\n\n【配色策略】\n\n不要固定使用某一种配色。\n你必须根据文章的行业、品牌、情绪和新闻性质，自动生成一套高冲击力封面配色。\n\n配色必须遵循以下原则：\n\n1. 品牌优先\n\n如果文章中出现明确品牌、产品或公司，优先提取其品牌识别色作为主色调。\n但不要机械复制 Logo 颜色，要转化为更适合封面的高对比视觉系统。\n\n2. 情绪优先\n\n根据新闻情绪自动选择色彩方向：\n\n* 涨价、危机、封禁、暴雷、裁员、监管、事故：\n  使用高压迫感、高警示感、高对比色彩。\n\n* 发布、升级、突破、胜利、增长：\n  使用更明亮、更有能量的科技色彩。\n\n* AI、芯片、未来科技、模型发布：\n  使用冷色科技感配色。\n\n* 财经、股价、市值、成本、价格：\n  使用金融信息图配色。\n\n* 游戏、娱乐、消费电子：\n  使用更强烈、更年轻、更商业化的高饱和配色。\n\n3. 对比关系\n\n画面必须建立清晰的对比层级：\n\n* 背景色：负责情绪氛围\n* 主标题色：必须与背景形成强烈反差\n* 重点数字色：必须是全图最醒目的颜色之一\n* 辅助信息色：降低饱和度，避免抢主标题\n* 警示/强调色：只用于关键词、箭头、涨跌幅和标签\n\n4. 色彩数量控制\n\n整张图控制在 3–5 个主要颜色内：\n\n* 1 个主背景色\n* 1 个品牌/主题主色\n* 1 个强强调色\n* 1 个文字高对比色\n* 1 个辅助信息色\n\n不要使用过多杂乱颜色。\n即使信息密度很高，配色也必须统一。\n\n5. 信息情绪匹配\n\n配色必须服务于文章核心情绪：\n\n* 坏消息：压迫感、警示感、冲击感\n* 好消息：爆发感、速度感、未来感\n* 行业分析：专业感、数据感、冷静但有冲击力\n* 消费建议：让用户一眼看到风险、机会或行动窗口\n\n6. 禁止事项\n\n* 不要默认使用红黑配色\n* 不要使用柔和小清新配色，除非文章本身是生活方式、教育、亲子、文艺类主题\n* 不要使用低对比配色\n* 不要让背景色、标题色和数字色互相打架\n* 不要因为品牌色存在，就牺牲可读性\n\n---\n\n【字体】\n\n* 中文超粗黑体\n* 大标题必须极其醒目\n* 数字和百分比必须巨大\n* 重要数字可以使用描边、阴影、立体效果\n* 字体要有新闻冲击感\n* 不要使用纤细字体\n* 不要使用文艺字体\n\n---\n\n【背景】\n\n根据文章情绪自动选择背景元素：\n\n* 财经/涨跌类：行情图、上涨/下跌箭头、数字网格、金融曲线\n* AI/科技类：HUD、芯片纹理、发光线条、数据流\n* 游戏/消费电子类：产品光效、速度线、爆炸形状、品牌元素\n* 危机/监管类：警示纹理、印章、封条、暗色压迫背景\n* 发布/突破类：光束、能量环、未来感渐变、发光粒子\n\n背景不能太空。\n但也不能干扰标题和数字阅读。\n\n---\n\n【排版原则】\n\n* 信息密度高，但层级必须清晰\n* 一眼先看标题\n* 第二眼看产品\n* 第三眼看关键数字\n* 第四眼看细节卡片\n* 所有文字必须尽量清晰可读\n* 中文排版要像专业媒体编辑做的封面\n* 不要平均用力\n* 不要把所有信息做得一样大\n\n---\n\n【输出要求】\n\n最终输出一张：\n\n* 专业\n* 高冲击力\n* 媒体级\n* 中文科技新闻封面图\n* 16:9 横版\n* 信息密集但清晰\n* 适合作为公众号、视频封面、文章头图使用\n\n---\n\n【用户文章】\n\n{{ARTICLE}}",
+  "media": [
+   "https://pbs.twimg.com/media/HH2EicFXwAMAJTm.jpg",
+   "https://pbs.twimg.com/media/HH2Ej43WUAY9FHi.jpg",
+   "https://pbs.twimg.com/media/HH2ElG8WAAUqewN.jpg",
+   "https://pbs.twimg.com/media/HH2EmkuXkAMMohF.jpg"
+  ],
+  "url": "https://x.com/dotey/status/2052942818570543550",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "1994297354808381819",
+  "tags": [
+   "infographic-dataviz"
+  ],
+  "likes": 442,
+  "views": 94200,
+  "date": "2025-11-28",
+  "user": "howie_serious",
+  "name": "howie.serious",
+  "text": "nano banana pro 的知识漫画 太牛了！！！\n\n《哆啦 A 梦给你讲解 transformer 原理》：深入浅出、具体形象、寓教于乐。\n\n直到现在，nano banana pro 仍然让我震撼。\n\n一个简单的 prompt，就能制作这种级别的漫画：把transformer 原理深入浅出、具体生动，用故事讲出来。\n\n基本工作流很简单：gemini 3.0 pro 设计分镜，然后把12 张漫画分镜给 nano banana pro 一张一张画出来。\n\ntransformer 讲解一共 12 张。你仔细读一读，感受一下，这种“知识漫画”到底好不好，价值大不大？\n\n（GOOG 还得加仓🤣）",
+  "media": [
+   "https://pbs.twimg.com/media/G60pun0a0AMYIVt.jpg",
+   "https://pbs.twimg.com/media/G60pun8boAApwcM.jpg",
+   "https://pbs.twimg.com/media/G60pun3a0AQXi3z.jpg",
+   "https://pbs.twimg.com/media/G60pun4a0AIt80-.jpg"
+  ],
+  "url": "https://x.com/howie_serious/status/1994297354808381819",
+  "cat": "06-infographic-ppt"
+ },
+ {
+  "id": "2113456751915982917",
+  "tags": [
+   "ui-interface"
+  ],
+  "likes": 932,
+  "views": 57215,
+  "date": "2026-10-23",
+  "user": "ZaynHao",
+  "name": "Zayn Hao",
+  "text": "分享 10 条优化界面 UI 的提示词，其中一些可能带有个人经验，发送给你的 Codex 或 Claude Code，立即提升 UI 视觉设计：\n\n1. 不要使用中点 “·”作为文案的分隔符。如果有，移除它。\n\n2. 不要在界面添加冗余的解释性描述文本，这会弄脏 UI 界面，还会浪费用户的注意力。\n\n3. review 界面文案，尽量使其描述符合当前界面面相的人群，容易理解但不要过于口语化，长短适合其功能场景，不要冗余和随意造词。\n\n4. 将页面所有使用的颜色，都换成 Radix UI Colors 的颜色。同时，使用那套颜色的使用规范来优化颜色使用。\n\n5. 优化界面元素与 UI 的对齐效果，尽量做到光学对齐；有嵌套的地方，尽量做到同心圆圆角处理。\n\n6. 如果你需要使用线条或者边框，请使用 0.5px 边框。\n\n7. 尽量减少页面中的元素动画过渡效果，如果一定要添加，7则考虑通常 ease-out，250ms 是个不错的基础设定。\n\n8. 界面的文字大小不要超过 4 种，最好三种。最小可用文字尺寸是 12px。如果不够用，可以考虑使用字重、字体颜色、间距设计来调整页面的关系结构。\n\n9. 尽量减少页面出现需要用户判断才能进行的交互；必须发生时，放在用户本来就打算做选择的地方。同时，重新思考页面中包含的功能和元素，判断信息优先级，使用更有秩序的做法进行组织。\n\n10. 尽量不要随意在页面中使用圆角，阴影，尤其是一个卡片的左边缘带颜色的线条。如果非要使用圆角和阴影，请注意其值的设定，符合其功能场景。",
+  "media": [
+   "https://pbs.twimg.com/media/HVSBf1kaYAEWYss.jpg",
+   "https://pbs.twimg.com/media/HVSBin8bwAAtW7L.jpg"
+  ],
+  "url": "https://x.com/ZaynHao/status/2113456751915982917",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2091834138131370179",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "brand-logo",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 247,
+  "views": 22893,
+  "date": "2026-08-24",
+  "user": "shao__meng",
+  "name": "meng shao",
+  "text": "前端 UI 设计怎么避免\"AI 味\" ？\n\n@addyosmani 在他 89.4K 🌟 Agent Skills 项目的「Frontend UI Engineering」部分，展开论述了其中很典型的八个模式，看看是不是深有同感，AI 味扑鼻而来。\n\n1. Purple/indigo everything（满屏蓝紫色）\n现象：主色默认落在 purple-500/indigo-600 一带，这是 AI 生成界面最著名的一个特征。\n模型为何偏爱：Tailwind 官方示例、shadcn/ui 演示主题、Bootstrap 5 的品牌紫、无数教程——紫色在语料中与\"现代科技感\"强绑定。\n问题本质：品牌色是产品最有价值的差异化资产之一。当所有 AI 应用都是紫色时，用户第一眼就能识别出\"这是模板/AI 生成的\"，信任感瞬间折损。更关键的是，它无视了项目已有的品牌 token。\n替代方案的实质：颜色决策权交还给项目。没有品牌色时，也应该先做一次有意的选择，而不是接受模型的统计默认值。\n\n2. Excessive gradients（滥用渐变）\n现象：hero 背景渐变、按钮渐变、甚至 bg-clip-text 渐变文字。\n模型为何偏爱：2018–2022 年间 Stripe 式渐变落地页在语料中大量存在，模型把\"令人印象深刻\"与\"渐变\"关联了起来。\n问题本质：成熟的设计系统绝大多数是扁平的，渐变会与系统冲突、制造视觉噪音；渐变文字还会损害对比度和可读性；大面积渐变在低端屏幕上容易出现色带。\n注意：这一条反对的不是渐变本身，而是\"无设计依据的渐变\"。设计系统明确规定的微妙渐变是允许的。\n\n3. Rounded everything（万物大圆角）\n现象：卡片、按钮、输入框、图片一律 rounded-2xl。\n模型为何偏爱：圆角传递\"友好\"，是模型眼中不会出错的选项；Tailwind 让一行类名就能实现。\n问题本质：这一条的理由最耐人寻味——真实设计中圆角半径是有层级的：小元素（标签、按钮）用小圆角，大容器（卡片、对话框）用大圆角。全部拉满等于放弃了这层视觉语言。而且圆角还是品牌声音的一部分：金融产品的利落直角和消费产品的圆润亲和，传达的是不同的气质。\n替代方案的实质：用设计系统的 radius 刻度，按元素尺寸和类型分级使用。\n\n4. Generic hero sections（模板化首屏）\n现象：居中大标题 + 副标题 + 两个 CTA 按钮 + 渐变背景——千篇一律的 SaaS 落地页模板。\n模型为何偏爱：落地页模板是语料中\"网页\"这一概念的众数样本。\n问题本质：它是模板驱动而非内容驱动——布局不回应产品是什么、用户来做什么。每个产品得到相同的第一印象，等于没有第一印象。\n替代方案的实质：Content-first——从真实内容和用户任务出发，让布局为内容服务。\n\n5. Lorem ipsum-style copy（占位文本）\n现象：\"Lorem ipsum\"\"Welcome to our platform\"\"Feature 1/2/3\"这类填充文案。\n问题本质：这是八条中最技术性、也最容易被低估的一条。占位文本的危害不只是\"不专业\"，是它会掩盖布局缺陷：Lorem ipsum 长度均匀、行为良好，而真实内容有超长单词、不规则换行、溢出。用假文本调试出来的布局，遇到真实数据才会崩。换句话说，占位文本让测试失去了效力。\n替代方案的实质：写\"形状接近真实数据\"的占位内容——真实长度的任务名、真实格式的日期和金额，让布局在开发阶段就承受真实内容的压力。\n\n6. Oversized padding everywhere（到处超大内边距）\n现象：每个容器都是 p-8、p-12，均匀而慷慨。\n模型为何偏爱：留白在截图中等于\"干净高级\"，且统一数值生成起来最容易。\n问题本质：视觉层级依赖间距的对比——相关的元素靠近，无关的疏远。处处等距意味着没有分组、没有层级；同时浪费屏幕空间，在移动端和信息密集的仪表盘上代价尤其大。\n替代方案的实质：间距应该是设计决策（密度本身就是一种设计语言)，而不是默认值。用刻度，且敢于变化。\n\n7. Stock card grids（千篇一律的卡片网格）\n现象：三列等宽卡片网格——特性区、定价区、仪表盘全是它。\n模型为何偏爱：这是最容易生成的响应式布局（grid-cols-1 md:grid-cols-3 一行搞定），且在语料中出现频率极高。\n问题本质：均匀网格是在声明\"所有条目同等重要\"——它无视信息优先级和浏览动线。真实产品总有主次之分：主内容应该占据更大的视觉权重，次要内容退后。\n替代方案的实质：Purpose-driven layout——布局是信息层级的视觉表达，而不是内容的均分容器。\n\n8. Shadow-heavy design（阴影堆砌）\n现象：卡片、按钮、导航栏层层叠 shadow-lg、shadow-xl。\n模型为何偏爱：阴影在截图中制造\"精致感\"，Material Design 风格的示例在语料中占比高。\n问题本质：有两层——视觉层面，阴影与内容争夺注意力，且海拔本身是层级信号，万物皆高等于没有高；工程层面，大面积模糊阴影的重绘会拖慢低端设备的滚动性能。这一条是八条中唯一同时指出性能代价的。\n替代方案的实质：默认无阴影或极淡阴影，用边框和背景色区分层次；只在设计系统明确规定时使用。\n\nhttps://t.co/iJRdj09tCZ",
+  "media": [
+   "https://pbs.twimg.com/media/HQewDKnakAAQfJ_.jpg"
+  ],
+  "url": "https://x.com/shao__meng/status/2091834138131370179",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "1992581217666121896",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "icon-illustration"
+  ],
+  "likes": 191,
+  "views": 18301,
+  "date": "2025-11-23",
+  "user": "shao__meng",
+  "name": "meng shao",
+  "text": "跟 Claude 学习怎么写 Prompt 来提升 UI 设计质量\n\n在 Claude 博客「Improving frontend design through Skills」中，详细讲述了如何利用 Claude Skills，突破 AI 生成前端代码时普遍存在的“平庸化”问题，构建出更具个性和专业感的用户界面，其中「Prompting for better frontend output」这个段落，值得重新看几遍，和 Claude 学习如何写出更能提升设计智能的提示词。\n\n1. 底层逻辑：对抗“统计学上的平庸”\n· 现状：LLM 是基于概率预测下一个 Token 的。在海量的训练数据中，设计得平平无奇的网页数量远多于获得 Awwwards 大奖的网页。因此，当你要求智能体“写一个网页”时，它在概率上会自然滑向那个“最拥挤、最平庸的平均值”。\n· Prompt 的战略意义：Prompt 的本质不仅仅是下指令，而是“通过约束条件，强制将智能体的预测分布推向边缘”。\n  · 你不能只说“要好看”，因为智能体对“好看”的定义是基于大众平均水平的。\n  · 你必须提供“离群值特征”，比如指定极简主义（Minimalism）、野兽派（Brutalism）或特定的艺术风格，迫使智能体放弃那些高概率但无聊的默认选择。\n\n2. 视觉工程化：将“好品味”翻译成具体指令\n详细拆解了如何将模糊的“设计感”转化为智能体可执行的代码逻辑。高水准的 Prompt 需要覆盖以下具体的工程维度：\nA. 排版系统 (Typography)：从“能看”到“有性格”\n· 默认陷阱：智能体习惯使用单一字体族（如全站 Sans-serif），这很安全，但缺乏层次。\n· 进阶 Prompt 策略：\n  · 强制字体配对：明确要求“Header 使用衬线体（Serif）以传递权威感/优雅感，Body 使用无衬线体（Sans）以保证易读性，Code/Data 使用等宽字体（Mono）以体现科技感”。\n  · 微调参数：不仅选字体，还要控制字间距（Tracking）和行高（Leading）。例如，要求智能体“在标题上使用紧凑的字间距（tracking-tight），在正文使用宽松的行高（leading-relaxed）”，这种细节是区分业余与专业的关键。\n\nB. 空间与布局 (Layout & Spacing)：用留白构建奢华感\n· 默认陷阱：AI 生成的界面往往“太挤了”。它试图在有限空间内塞入所有信息，导致界面像 90 年代的门户网站。\n· 进阶 Prompt 策略：\n  · 留白即功能：指示智能体“将留白（Whitespace）视为一种设计元素，而不仅是间隔”。要求使用夸张的 Padding（如 Tailwind 的 p-12 或 py-24）。\n  · 网格的破坏与重建：鼓励智能体使用不对称布局（Asymmetrical Layouts）或错位网格（Bento Grids），打破死板的 12 栅格系统，创造视觉动线。\n\nC. 色彩与深度 (Color & Depth)：拒绝纯色块\n· 默认陷阱：直接使用高饱和度的纯色（如 # 0000FF）或者完全扁平化的设计。\n· 进阶 Prompt 策略：\n  · 物理质感：不要只定义颜色，要定义“光”。要求智能体使用微妙的渐变（Subtle Gradients）、**内阴影（Inner Shadows）和背景模糊（Backdrop Blur）**来模拟毛玻璃、金属或纸张的质感。\n  · 语义化色彩：定义一套基于 HSL 或 OKLCH 的色板，并明确用途（Primary, Muted, Accent, Destructive），确保配色和谐且符合无障碍标准。\n\n3. 感性维度的参数化：Vibes 的精准描述\n文章中最具启发性的部分——如何让不懂审美的代码生成器理解“Vibe”。\n· 问题：如果你告诉智能体“做一个复古网站”，它可能会做出一堆乱七八糟的像素画。\n· 解决方案：你需要将形容词“翻译”为 CSS 属性的集合。文章提倡在 Skill 中建立一种“风格词典”：\n  · 想要“赛博朋克”？ Prompt 应包含：霓虹绿/粉配色 + 黑色背景 + 故障艺术（Glitch）动效 + 等宽字体。\n  · 想要“高端SaaS”？ Prompt 应包含：深蓝/灰配色 + Inter字体 + 极细的边框（1px borders） + 微交互（Micro-interactions）。\n· 智能体的角色转变：通过这种方式，智能体不再是一个单纯的“程序员”，而是一个配备了特定风格指南（Style Guide）的“UI 设计师”。\n\n4. 为什么这不仅是“提示词”，而是“Skill”？\n文章强调将这些 Prompt 封装为 Skill，这意味着：\n· 复用性：你不需要每次都写几百字的排版要求。\n· 上下文隔离：这个 Skill 就像是一个独立的插件。当需要写前端时，智能体调用这个 Skill，它的“大脑”中就临时加载了由 Anthropic 专家精炼过的 400 个 Token 的设计知识库。\n· 工具链整合：这个 Skill 还可以强制绑定特定的技术栈（如 React + Tailwind + Lucide Icons + Shadcn UI）。这意味着智能体在设计时，已经知道它有这些高质量的组件库可以调用，从而避免了“重复造轮子”带来的粗糙感。\n\n总结\n深入来看，这揭示了 AI 辅助开发的未来方向：我们不再直接为最终结果编码，而是在为“产生结果的过程”编码。\n通过精心设计的 Prompt 和 Skills，我们将人类的高级审美偏好“注入”到智能体的生成过程中，从而打破概率的诅咒，让 AI 产出既有工业级代码质量，又具备人类设计师灵魂的界面。\n\n博客地址\nhttps://t.co/XF02yFw4es",
+  "media": [
+   "https://pbs.twimg.com/media/G6cR7-xaoAEdshl.jpg"
+  ],
+  "url": "https://x.com/shao__meng/status/1992581217666121896",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2045855870051909708",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype",
+   "brand-logo",
+   "icon-illustration"
+  ],
+  "likes": 125,
+  "views": 10678,
+  "date": "2026-04-19",
+  "user": "shao__meng",
+  "name": "meng shao",
+  "text": "Awesome Claude Design\n\n68 个预置 DESIGN.md 设计系统模板，每个模板对应一个知名品牌的视觉语言（有 Apple、Stripe、Linear、Notion、Cohere、Anthropic 等），以结构化 MD 格式封装，可直接导入 Claude Design 工具，一键生成完整的设计系统脚手架。\n开源地址：\nhttps://t.co/heY0Jd1bCL\n\nDESIGN.md 是由 Google Stitch 首创的面向 AI Agent 的结构化设计规范格式，它把传统品牌指南中模糊的「感觉描述」转化为 AI Agent 可执行的 token、规则和决策依据，包含 9 个标准章节：\n· 视觉主题与氛围：设定整体调性\n· 色彩体系：CSS 变量与语义化命名\n· 字体规范：字阶系统与字体回退方案\n· 组件样式：按钮、卡片、导航等状态定义\n· 布局原则：间距、栅格、留白节奏\n· 深度与层级：阴影 token 与表面层级\n· 设计约束：生成新页面时的边界规则\n· 响应式行为：断点与触控目标\n· Agent prompt 指南：可复用的 prompt 模板\n\n使用流程\n1. 从 68 个模板中挑选目标品牌风格\n2. 下载对应的 DESIGN.md 文件\n3. 在 Claude Design 中上传（支持「新建设计系统」或「原型模式」两种入口）\n4. Claude 自动生成：README、CSS 变量文件、预览卡片、可运行的 UI Kit（HTML + 组件）、以及可复用的 SKILL.md\n\n模板覆盖领域\n· AI/LLM 平台：Claude、Cohere、Mistral、ElevenLabs 等 11 个\n· 开发者工具：Cursor、Vercel、Warp、Raycast 等 7 个\n· 后端/DevOps：Supabase、MongoDB、Sentry、Sanity 等 7 个\n· 生产力 SaaS：Linear、Notion、Cal. com、Intercom 等 7 个\n· 设计/创意工具：Figma、Framer、Webflow、Airtable 等 6 个\n· 金融科技：Stripe、Coinbase、Revolut、Wise 等 7 个\n· 电商零售：Airbnb、Shopify、Nike、Meta 等 4 个\n· 媒体/消费科技：Apple、Spotify、Uber、NVIDIA 等 11 个\n· 汽车：Tesla、BMW、Ferrari、Lamborghini 等 6 个\n\n关键价值\n· 消除空白页焦虑：无需从零撰写设计 brief，直接复用成熟品牌的视觉逻辑\n· AI 原生工作流：不是给设计师看的 PDF，而是给 AI Agent 执行的代码化规范\n· 可迁移性：生成的 SKILL.md 可在未来项目中复现同一套美学，无需重复上传",
+  "media": [
+   "https://pbs.twimg.com/media/HGRXDIJboAACMQT.jpg"
+  ],
+  "url": "https://x.com/shao__meng/status/2045855870051909708",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2096919498838483265",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "infographic-dataviz",
+   "product-render"
+  ],
+  "likes": 25,
+  "views": 3926,
+  "date": "2026-09-07",
+  "user": "shao__meng",
+  "name": "meng shao",
+  "text": "[前端设计 Skills 分享] Impeccable  66K 🌟\n\n作者 @pbakaus 以 Anthropic frontend-design skill 为起点，通过 Skills + 61 条确定性检测规则 + 硬性工作流，来根治一眼假的 AI Slop ...\nhttps://t.co/ceUhd3ImSe\n\nAI Slop 从哪来？\n所有模型都在同一批 SaaS 模板训练，产出高度趋同的“AI 设计偏好/ AI Slop”：Inter 字体、紫蓝渐变、卡片套卡片、彩色背景上放灰字、每个标题上方一个圆角图标块 ...\n\n# Impeccable 的架构应对分三层\n\n第一层：Prompt 层（Skill 文本）。 1 个 skill 入口 /impeccable，内含 23 个子命令，本质是一套与 AI 共享的设计词汇表——init（采集产品事实写入 PRODUCT.md）、critique（UX 评审）、audit（技术检查）、polish / bolder / quieter / distill（不同方向的精修）、live（浏览器内可视化变体迭代）。用自然语言命令取代模糊的“帮我做好看一点”。\n\n第二层：确定性检测层（核心创新）。 61 条规则全部用 Rust 实现，零 LLM、零 API key 地静态分析 HTML/CSS 或扫描 URL 渲染结果。规则分两类：32 条 \"slop\"（AI 口癖：side-tab 彩色边条、bounce 缓动、radial 光晕、闪烁光标、渐变文字、破折号滥用……）和 29 条 \"quality\"（行宽、触控目标、跳级标题、低对比度、越界文本……）。可独立于任何 AI 工具使用：npx impeccable detect src/，退出码 2 即有问题，可直接进 CI。\n\n第三层：流程契约层（最有野心的部分）。 它不只给建议，还把“防止模型走回头路”写成了硬性流程：设计 hook 在你编辑 UI 文件后自动跑检测器、把发现回灌给 agent（Cursor 上甚至在写盘前拦截）；critique 强制两个隔离的子代理分别评审（LLM 判断与检测器证据互相不污染，再合成报告）；finish reviewer 必须在新上下文中运行，因为“继承你转录的评审者会继承你的乐观”。\n\n# 工程上真正出色的几点\n\n1. 无运行时依赖的分发设计。 每份 skill 只带一个几百行的启动脚本，首次运行时下载一个静态 Rust 二进制到 ~/.impeccable/bin/。hook 和 skill 都不需要 Node——npx 只是安装器外壳。这让它在 17 种形态各异的工具里保持同一行为。\n\n2. 同一套核心、三种执行引擎。 crates/core 里的规则逻辑被编译三次：静态引擎（解析 HTML/CSS 级联，无需浏览器）、浏览器引擎（CDP 连真实 Chrome 检查渲染后 DOM）、以及 wasm（打进浏览器扩展和页面内注入 bundle）。写一次规则，处处生效，且行为由 tests/oracle/ 固定。\n\n3. 产品事实与视觉方向分离。 PRODUCT.md 只记“不可协商的产品真相”（用户是谁、差异化机制、证据），DESIGN.md 只记“既成视觉决策”——且明确规定 DESIGN.md 在建成后由 documenter 从代码反写，因为“建成前写的规则书会被拿去对抗现实而不是描述现实”。这个认识很深。\n\n4. 对抗模型惰性的机制化。 最典型的是 concept-seed：新视觉方向必须跑一个脚本随机分配设计方向 + 洗牌挑战者，“写 artifact 代码前没跑这个脚本是违约”。原因是模型天然收敛到品类默认——用骰子强制探索，再用“观众认同 / 产品清晰”两个轴裁决。甚至给 Claude 单独标注了它的“奶油底衬线字”偏好，要求视其为已花掉的预算。\n\n5. Comp-led 构建的状态机。 选了“先出高保真设计稿”路径时，构建被拆成 comps → spec（网格测量设计稿、从 Google Fonts 指纹索引匹配字体）→ plates（图块资产以 1.5 倍分辨率重生成）→ hero（首屏与设计稿像素 diff，72% 过线）→ sections → motion → responsive 的门控流水线。每一关由二进制测量把关，不靠模型“自我感觉复现成功了”——文档直言“模型系统性地高估自己对图像的 HTML 还原能力”。",
+  "media": [
+   "https://pbs.twimg.com/media/HRnBKada4AAOOu-.jpg"
+  ],
+  "url": "https://x.com/shao__meng/status/2096919498838483265",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2095680322272952448",
+  "tags": [
+   "ui-interface",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 500,
+  "views": 46091,
+  "date": "2026-09-04",
+  "user": "vista8",
+  "name": "向阳乔木",
+  "text": "我去，著名产品人Lenny这篇文章的含金量太高了！\n\n从大模型原理出发，给出提示词示例，让你学会用AI给出真正有创意、有个人风格的 UI 设计。\n\n比如大模型只是下一个token预测，所以提示词中用shell脚本生成随机数。\n\n让模型基于随机数来定义创意方向！\n\n文中还有其他技巧，提示词价值还是被低估了。\n\n阅读地址见评论",
+  "media": [
+   "https://pbs.twimg.com/media/HRVY-Q8aYAABUM6.jpg"
+  ],
+  "url": "https://x.com/vista8/status/2095680322272952448",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2063674134903603302",
+  "tags": [
+   "ui-interface",
+   "web-landing",
+   "ux-research",
+   "product-render"
+  ],
+  "likes": 943,
+  "views": 130979,
+  "date": "2026-06-07",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "之所以研究 Claude Design，是因为最近摸索出一套不错的开发模式：\n\n1. 先用 Claude Design 去设计 App 的 UI 和 UX，第一版本越简单越好。\n\nClaude Design 交付的结果是 HTML + CSS + React + data.js，通过 CSS 一下就可以看清楚设计系统的颜色系统、尺寸规范，通过 React 可以看清楚组件结构，通过 data 可以知道数据结构什么样子。\n\n这几个组合可比 figma 对于 AI 来说友好多了，尤其是 data.jsx，这是一般的设计 App 不会有的，但对开发特别重要的。\n\n还有一个优势就是交付的结果都是文本格式的，可以一起提交到 git 做版本管理，用 git diff 就可以清楚的让 AI 知道设计稿修改了什么。\n\n2. 把 Claude Design 生成设计稿交给 Claude Opus 4.8 去实现一个 MVP，第一个版本只实现 UI 功能，告诉它技术栈（比如 AppKit 而不是 SwiftUI），通过几个小版本的迭代，让它逐步完善。比如第一个版本只是主界面\n\n之所以不用 GPT，是因为 Opus 在 UI 实现上比 GPT 好太多，同样的设计稿，GPT 实现的各种细节问题的，不能很好的遵守设计稿。\n\n之所以不一下子实现太多功能，是因为功能越少 Agent 越容易聚焦，做出来效果越好。所以怎么拆分版本，也是用好 Coding Agent 的一种能力。\n\n非 UI 的功能，用什么模型没有那么大差别，所以我也会用 Codex 配合非 UI 工作。\n\n3. 每次生成一个版本，要让它可以运行，无论是 Agent 还是人都是需要即时反馈的，有了反馈才知道方向对不对，才知道下一步要做什么。\n\n人在测试的时候，能发现各种问题，代码问题就让 Agent 去修改，UI 设计有问题不是马上修改代码，而是要去 Claude Design 去修改设计稿，设计稿修改完了，把设计稿下载回去，替换本地的设计稿文件。\n\n设计稿替换后，让 Agent 去 git diff 分析一下变更，给它个截图，都不用多说它就知道怎么改了。\n\n4. 版本稳定后继续新一轮迭代\n\n当设计的功能做完之后，不一定是要马上去设计新的功能，而是可以重新审查一下实现的代码，重构优化一下。\n\n比如我在第一版实现后，让 Opus 4.8 去做了性能分析，看性能问题在哪，然后告诉我当前用 NSScrollView，内容一多就内存暴涨，建议 NSTableView。\n\n我心想这不应该是一开始就该考虑到的么！不管怎么样亡羊补牢也不算晚。\n\n性能优化完就继续加功能，更新设计稿，让 Agent 参考新设计稿优化功能。\n\n---\n\n再回来说研究 Claude Design 的事，因为反复 Claude Design 修改，同步到本地，然后这一步让我后来很烦，因为需要在本地和 Claude Design 网页切换，还要导出下载到本地，解压缩替换。\n\n于是我就想能不能在本地就可以重现 Claude Design 直接集成到本地 Agent，所以我去研究了 Claude Design，然后发现完全可以本地跑起来，只是本地 Agent 在工具调用上有些差异，以及不方便直接在设计稿上标记编辑。\n\n上周正好 Codex 发布了直接调试 iOS 的功能，它带了标记修改的功能，然后我灵机一动，这不正好可以代替 Claude Design 的标记修改功能么。（图2）\n\n问题是 GPT 5.5 模型设计能力不够，在 Codex 里面设计效果也不会好。\n\n接着  Cursor 也发布了网页标记功能，这下正好，Cursor 里面可以用 Opus 4.8，做成 Skill 就可以本地运行了，还可以在 Cursor 内置浏览器中，直接标记、评论修改。\n\n好在 Claude Code 的核心逻辑都在浏览器前端，他们在网页上做了个 Harness，这给了我分析的便利，耐心一点就可以分析出所有的 Prompt、内置 Skills、初始组件，再针对 Cursor 的工具做一些兼容就可以跑起来了。（图3）\n\n测试对比了一下和在 Claude Design 上跑的效果差不多。（图4）\n\n归根结底，还是 Claude Desktop 太拉胯了，Claude Design 本应该集成在 Claude Desktop 的，不然也不需要我这么折腾。\n\n当然不折腾下我也没机会学习 Claude Design 优秀的设计，真的很棒，接下来会系列更新我的学习心得。\n\n推荐去试试最终的 Skill，让你本地就可以跑 Claude Design：\nhttps://t.co/d2EaYV6q7j",
+  "media": [
+   "https://pbs.twimg.com/media/HKOklkXWcAArKsq.jpg",
+   "https://pbs.twimg.com/media/HKOkmlLXYAAS7aU.jpg",
+   "https://pbs.twimg.com/media/HKOko4SWwAAOHMg.jpg",
+   "https://pbs.twimg.com/media/HKOkrzNXcAA032T.jpg"
+  ],
+  "url": "https://x.com/dotey/status/2063674134903603302",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2086013571218149595",
+  "tags": [
+   "infographic-dataviz",
+   "ux-research"
+  ],
+  "likes": 398,
+  "views": 15384,
+  "date": "2026-08-08",
+  "user": "poistudioltd",
+  "name": "Bobo Wong",
+  "text": "The 2 ways I actually use AI in my design process:\n\n1. Creative imagery.\n\nI've always had ideas that felt too crazy to pull off quickly in Illustrator. This is how I get them out of my head now:\n\n1. Pinterest first. I collect references before I touch MJ, so I know what I'm chasing.\n2. Build two moodboards in Midjourney. Grab the style codes from both.\n3. Write what I actually want to create, then paste both moodboard codes into the prompt.\n\n2. Digesting workshops.\n\nThis saves me hours of work.\n\nAfter a brand workshop I'm sitting on messy notes, slider results and a recording.\n\n1. I already have a fixed framework for my strategy and design report. Summary of everything we discussed, brief breakdown, brand goals, brand values, moodboard, the vibe framework, then how each design element applies to this brand.\n2. I give Claude that framework first. Before anything else.\n3. Then I give it all the raw workshop materials.\n4. I ask it to create a summary of everything we talked about, using my framework.\n5. First draft comes back in a couple of minutes. Then I proofread and rewrite the copy properly, which takes me another hour or two.\n\nIt's not analysing for me, it's analysing in a structure I already decided on.\n\nUsed to eat my entire day, now it's about two hours max.",
+  "media": [
+   "https://pbs.twimg.com/media/HPMCRXObsAErh47.jpg",
+   "https://pbs.twimg.com/media/HPMCRn1agAA_flc.jpg",
+   "https://pbs.twimg.com/media/HPMCR9faoAAXo4f.jpg",
+   "https://pbs.twimg.com/media/HPMCSPEbIAAgNtY.jpg"
+  ],
+  "url": "https://x.com/poistudioltd/status/2086013571218149595",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2113145138700583333",
+  "tags": [
+   "brand-logo",
+   "ux-research"
+  ],
+  "likes": 273,
+  "views": 1618,
+  "date": "2026-10-22",
+  "user": "Sonofpeace0001",
+  "name": "SOP | AI Agent Builder",
+  "text": "A good agent can still give you a bad logo. Here's why.\n\nI built a logo agent once, with the rules already inside it. I don't rewrite the prompt each time. I just give it a brief.\n\nThe prompt sets the agent up. Your input decides the result.\n\nI tested it twice.\n\nThin input: \"Make a logo for a café that repairs phones.\"\nThe agent had to guess. It guessed a coffee cup, steam, a wrench, a screwdriver and lightning bolts, then made up a name.\n\nSolid input: a seven-line brief.\nNothing left to guess. One clean ampersand mark, two colours and spacing rules for each version.\n\nSame agent. Different input. Different result.\n\nThis is the input I give it now:\n\nBrand name:\nWhat it is:\nAudience:\nPersonality:\nColours:\nMust have:\nAvoid:\n\nOnce the logo is right, don't start a new chat. Stay in the same conversation and ask the agent to turn it into your full brand system, so everything builds on the mark you already approved.\n\nBookmark this and fill in the seven lines before your next run. The brief takes a minute. Fixing a guessed logo takes much longer.",
+  "media": [
+   "https://pbs.twimg.com/media/HVNmM27WQAA4PTb.jpg"
+  ],
+  "url": "https://x.com/Sonofpeace0001/status/2113145138700583333",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "2114053195324416097",
+  "tags": [
+   "ui-interface",
+   "wireframe-prototype"
+  ],
+  "likes": 0,
+  "views": 64,
+  "date": "2026-10-24",
+  "user": "0xPixelMind",
+  "name": "S1dney_St0ne",
+  "text": "95% of developers using AI for frontend are just gambling with text prompts.\n\n\"Make me a modern SaaS dashboard with a dark theme.\"\n\nWhat do you get? \nThe exact same generic purple-gradient Tailwind slop as everyone else, broken flexboxes, and components that collapse the moment real data hits them.\n\nText is a lossy compression format for visual systems. LLMs don't \"see\" spacing, hierarchy, or visual tension when you describe them in English.\n\nIf you want production-grade UI generated autonomously, stop describing pixels with words. Feed the model structured visual primitives.\n\nHere is the Vision-to-Code Compilation Pipeline we use to ship complete interfaces in 8 minutes instead of 2 weeks:\n\nI. THE VIBE-CODING BOTTLENECK\n\nWhen you prompt an LLM with raw text to write React/Next.js, it guesses layout math inside a single pass. It has zero spatial awareness. \n\nTop teams decouple visual architecture from code generation into 4 strict stages:\n\n1. Wireframe Tokenization (Vision Input)\nInstead of a text prompt, feed the vision node a low-fidelity bounding-box wireframe or Figma JSON tree. Lock the spatial coordinates before a single line of CSS is written.\n\n2. Design System Constraint Lock\nNever let an LLM invent hex codes, margins, or font sizes. Bind it to a strict design token contract (spacing scales, color primitives, z-index layers). If the model outputs an arbitrary pixel value, the linter rejects it.\n\n3. Atomic AST Assembly\nDon't generate a 900-line page in one shot. An orchestrator breaks the viewport into isolated atomic nodes (Header, DataGrid, TelemetryCard), compiles them in parallel, and validates TypeScript props at the boundary.\n\n4. Headless Visual Regression (The Secret)\nBefore you ever see the UI, a headless browser renders the output, takes a DOM snapshot, and runs a pixel-diff check against the original bounding-box spec. If a button overflows by 4px, the Vision Critic catches it and forces a silent rewrite.\n\nII. THE NUMBERS IN PRODUCTION\n\n• First-pass layout accuracy: 38% (Text Prompt) -> 96.4% (Vision-Locked)\n• Token burn per view: -62% (no manual \"fix the padding\" chat loops)\n• Time to production PR: ~8 mins per complex view\n\nStop treating frontend AI like a slot machine. Treat it like a deterministic visual compiler.\n\nI dropped the exact Vision-Constraint System Contract we inject into our UI agent in the reply below — copy it into Cursor / Windsurf / Claude to lock your layouts instantly.",
+  "media": [
+   "https://pbs.twimg.com/media/HVagKzjXcAE4AcD.png"
+  ],
+  "url": "https://x.com/0xPixelMind/status/2114053195324416097",
+  "cat": "07-method-workflow"
+ },
+ {
+  "id": "1995190286775881780",
+  "tags": [
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 2331,
+  "views": 938310,
+  "date": "2025-11-30",
+  "user": "dotey",
+  "name": "宝玉",
+  "text": "🍌 nano banana prompt\n3D chibi-style miniature concept store of {Brand Name}\n\n--- Prompt ---\n\n3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3\n\nBrand name: Starbucks",
+  "media": [
+   "https://pbs.twimg.com/media/G7BWvI8X0AApeZB.jpg",
+   "https://pbs.twimg.com/media/G7BWvJBXgAAV947.jpg",
+   "https://pbs.twimg.com/media/G7BWvIzWIAAr6Tz.jpg",
+   "https://pbs.twimg.com/media/G7BW6F-XYAAN1iu.jpg"
+  ],
+  "url": "https://x.com/dotey/status/1995190286775881780",
+  "cat": "08-product-render"
+ },
+ {
+  "id": "2038342534024544736",
+  "tags": [
+   "product-render"
+  ],
+  "likes": 729,
+  "views": 52290,
+  "date": "2026-03-29",
+  "user": "gudanglifehack",
+  "name": "Tips Excel | AI Productivity",
+  "text": "new TREND in Nano Banana Pro\n\ncreating a packaging design effect. The prompt is below:￼\n\n(Save this before it disappears). https://t.co/nVSHnYKaQQ",
+  "media": [
+   "https://pbs.twimg.com/media/HEmluieaoAAEGso.jpg",
+   "https://pbs.twimg.com/media/HEmluiYbEAAFvEx.jpg",
+   "https://pbs.twimg.com/media/HEmluicbQAAIh5V.jpg",
+   "https://pbs.twimg.com/media/HEmluifbUAAobZ4.jpg"
+  ],
+  "url": "https://x.com/gudanglifehack/status/2038342534024544736",
+  "cat": "08-product-render"
+ },
+ {
+  "id": "2032532246641406264",
+  "tags": [
+   "product-render"
+  ],
+  "likes": 141,
+  "views": 9166,
+  "date": "2026-03-13",
+  "user": "AmirMushich",
+  "name": "AmirMušić",
+  "text": "Nano Banana smart prompt:\n\nConceptual packaging design\n\nPrompt 👇 https://t.co/xJytRcQhqj",
+  "media": [
+   "https://pbs.twimg.com/media/HDUBTaSXIAEdyJM.jpg"
+  ],
+  "url": "https://x.com/AmirMushich/status/2032532246641406264",
+  "cat": "08-product-render"
+ },
+ {
+  "id": "2074697587756806354",
+  "tags": [
+   "ui-interface",
+   "brand-logo",
+   "product-render"
+  ],
+  "likes": 102,
+  "views": 6426,
+  "date": "2026-07-08",
+  "user": "Sheldon056",
+  "name": "Duet | AI",
+  "text": "Nano Banana 2 on Gemini\n\nPrompt: Create a premium modern tech product promotional social media poster for [BRAND NAME].\n\nTOPIC:\n[PRODUCT NAME]\n\nSTYLE & ART DIRECTION:\n\nModern futuristic tech advertising design\n\nMinimal premium commercial poster aesthetic\n\nMonochromatic color branding\n\nClean geometric composition\n\nHigh-end electronic product advertisement\n\nSoft abstract background elements\n\nInstagram and Behance-quality tech campaign style\n\nMAIN SUBJECT:\n\nA large realistic 3D render of [PRODUCT]\n\nProduct centered prominently as the hero element\n\nHigh-detail premium material textures\n\nSoft reflective surfaces\n\nProduct slightly floating above the background\n\nRealistic studio product rendering\n\nStrong focus on curves, materials, and lighting\n\nLAYOUT & COMPOSITION:\n\nCentralized symmetrical composition\n\nGiant background typography behind the product\n\nLarge cropped bold text integrated into the background\n\nMinimal clean layout with spacious negative space\n\nSimple CTA button at the bottom center\n\nSmall social/contact information aligned at the bottom\n\nAbstract geometric overlays in the corners\n\nTEXT & TYPOGRAPHY:\n\nBold futuristic typography\n\nLarge oversized background text\n\nMinimal modern sans-serif fonts\n\nClean premium branding style\n\nShort high-impact promotional wording\n\nDEPTH & LIGHTING:\n\nSoft cinematic studio lighting\n\nAmbient shadows beneath the product\n\nSmooth reflective highlights\n\nSubtle glow around edges\n\nPremium product render depth\n\nClean soft shadow gradients\n\nEXTRA DESIGN DETAILS:\n\nTransparent geometric overlays\n\nRounded modern shapes\n\nMinimal UI-inspired elements\n\nSoft gradients\n\nFuturistic visual identity\n\nElegant commercial balance\n\nCOLOR PALETTE:\n\n[PRIMARY COLOR]\n\nTonal monochromatic shades\n\nSoft highlights and shadows\n\nWhite typography accents\n\nQUALITY:\n\nUltra realistic\n\nHigh-end product advertisement\n\nBehance-quality composition\n\nPremium studio render quality\n\nUltra high resolution",
+  "media": [
+   "https://pbs.twimg.com/media/HMrOciQaAAAEUBZ.jpg",
+   "https://pbs.twimg.com/media/HMrOciiasAAbHHx.jpg",
+   "https://pbs.twimg.com/media/HMrOcicbkAADm8z.jpg",
+   "https://pbs.twimg.com/media/HMrOcizasAA1-Wy.jpg"
+  ],
+  "url": "https://x.com/Sheldon056/status/2074697587756806354",
+  "cat": "08-product-render"
+ },
+ {
+  "id": "2038795514691694993",
+  "tags": [
+   "wireframe-prototype",
+   "icon-illustration",
+   "product-render"
+  ],
+  "likes": 79,
+  "views": 3873,
+  "date": "2026-03-31",
+  "user": "Goodmanprotocol",
+  "name": "Saul Goodman",
+  "text": "Gemini nano banana 2\n\nPrompt:\nUsing the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.\n\nStable diffusion CFG: 7-9 steps: 30-40 Sampler: DPM++ Resolution: 1024×1280 and higher. --ar 3:4",
+  "media": [
+   "https://pbs.twimg.com/media/HEtBtaMbAAA0QzL.jpg",
+   "https://pbs.twimg.com/media/HEtBtazaAAAWYiA.jpg"
+  ],
+  "url": "https://x.com/Goodmanprotocol/status/2038795514691694993",
+  "cat": "08-product-render"
+ }
+]
